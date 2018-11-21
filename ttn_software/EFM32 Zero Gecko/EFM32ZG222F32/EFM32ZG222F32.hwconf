@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ASCII"?>
+<device:XMLDevice xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:device="http://www.silabs.com/ss/hwconfig/document/device.ecore" name="EFM32ZG222F32" partId="mcu.arm.efm32.zg.efm32zg222f32" contextId="%DEFAULT%">
+  <mode name="DefaultMode">
+    <property object="DefaultMode" propertyId="mode.diagramLocation" value="100, 100"/>
+    <property object="GPIO" propertyId="ABPeripheral.included" value="true"/>
+    <property object="HFXO" propertyId="ABPeripheral.included" value="true"/>
+    <property object="HFXO" propertyId="hfxo.circuitcharacteristics.calculatedclpf" value="12.50"/>
+    <property object="HFXO" propertyId="hfxo.crystalcharacteristics.oscillationfrequency" value="24000000"/>
+    <property object="HFXO" propertyId="hfxo.result.rnegesrmaxratio" value="43.071"/>
+    <property object="LEUART0" propertyId="ABPeripheral.included" value="true"/>
+    <property object="LFXO" propertyId="lfxo.circuitcharacteristics.calculatedclpf" value="12.50"/>
+    <property object="LFXO" propertyId="lfxo.recommendedoscillatorboostsettings.lfxoboostpercent" value="100%"/>
+    <property object="LFXO" propertyId="lfxo.result.rnegesrmaxratio" value="15.574"/>
+    <property object="PA1" propertyId="ports.settings.custompinname" value=""/>
+    <property object="PC0" propertyId="ports.settings.dout" value="1"/>
+    <property object="PC0" propertyId="ports.settings.filter" value="Enabled"/>
+    <property object="PC0" propertyId="ports.settings.pinmode" value="Push-pull"/>
+    <property object="PC0" propertyId="ports.settings.pulldirection" value="Pullup"/>
+    <property object="PC0" propertyId="ports.settings.pullup" value="Enabled"/>
+    <property object="PC1" propertyId="ports.settings.pinmode" value="Input pull"/>
+    <property object="PC10" propertyId="ports.settings.custompinname" value="LED0"/>
+    <property object="PC10" propertyId="ports.settings.pinmode" value="Push-pull"/>
+    <property object="PC11" propertyId="ports.settings.custompinname" value="LED1"/>
+    <property object="PC11" propertyId="ports.settings.dout" value="1"/>
+    <property object="PC11" propertyId="ports.settings.filter" value="Enabled"/>
+    <property object="PC11" propertyId="ports.settings.pinmode" value="Push-pull"/>
+    <property object="PC11" propertyId="ports.settings.pulldirection" value="Pullup"/>
+    <property object="PC11" propertyId="ports.settings.pullup" value="Enabled"/>
+    <property object="PC8" propertyId="ports.settings.custompinname" value="BT0"/>
+    <property object="PC8" propertyId="ports.settings.dout" value="1"/>
+    <property object="PC8" propertyId="ports.settings.filter" value="Enabled"/>
+    <property object="PC8" propertyId="ports.settings.pinmode" value="Input pull"/>
+    <property object="PC8" propertyId="ports.settings.pulldirection" value="Pullup"/>
+    <property object="PC8" propertyId="ports.settings.pullup" value="Enabled"/>
+    <property object="PC9" propertyId="ports.settings.custompinname" value="BT1"/>
+    <property object="PC9" propertyId="ports.settings.dout" value="1"/>
+    <property object="PC9" propertyId="ports.settings.filter" value="Enabled"/>
+    <property object="PC9" propertyId="ports.settings.pinmode" value="Input pull"/>
+    <property object="PC9" propertyId="ports.settings.pulldirection" value="Pullup"/>
+    <property object="PC9" propertyId="ports.settings.pullup" value="Enabled"/>
+    <property object="PD4" propertyId="ports.settings.dout" value="1"/>
+    <property object="PD4" propertyId="ports.settings.filter" value="Enabled"/>
+    <property object="PD4" propertyId="ports.settings.pinmode" value="Push-pull"/>
+    <property object="PD4" propertyId="ports.settings.pulldirection" value="Pullup"/>
+    <property object="PD4" propertyId="ports.settings.pullup" value="Enabled"/>
+    <property object="PD5" propertyId="ports.settings.pinmode" value="Input pull"/>
+    <property object="PORTIO" propertyId="portio.cmu.location.cmu" value="2"/>
+    <property object="PORTIO" propertyId="portio.hfxo.enable.n" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.hfxo.enable.p" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.i2c0.location.i2c0" value="6"/>
+    <property object="PORTIO" propertyId="portio.leuart0.enable.rx" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.leuart0.enable.tx" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.usart1.enable.rx" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.usart1.enable.tx" value="Enabled"/>
+    <property object="USART1" propertyId="ABPeripheral.included" value="true"/>
+  </mode>
+  <modeTransition>
+    <property object="RESET &#x2192; DefaultMode" propertyId="modeTransition.source" value="RESET"/>
+    <property object="RESET &#x2192; DefaultMode" propertyId="modeTransition.target" value="DefaultMode"/>
+  </modeTransition>
+</device:XMLDevice>

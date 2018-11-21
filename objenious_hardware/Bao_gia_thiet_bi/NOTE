@@ -1,0 +1,12 @@
+Bảng báo giá gồm những linh kiện hai bên có chung de so sanh chưa bao gồm giá những linh kiện phía dưới
+-Bên Siêu thuật:
+
+  + Báo không có con LORA giống spec con LORA đang sử dụng và đề xuất con s76s thay thế ( phải thay đổi PCB)
+  + Có báo giá anten Lora 5.35 USD/unit.
+  + báo giá connector 1.25mm 0.27 USD/unit.
+
+- Bên ATCOM:
+
+  + Báo giá thiếu connector 1.25 mm và LORA anten.
+  + Báo giá module LORA 7.0452 USD/unit.
+

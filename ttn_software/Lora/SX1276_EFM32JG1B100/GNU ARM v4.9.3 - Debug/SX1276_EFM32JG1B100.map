@@ -1,0 +1,2457 @@
+Archive member included because of file (symbol)
+
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_addsubdf3.o)
+                              ./src/main.o (__aeabi_dadd)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_muldivdf3.o)
+                              ./src/main.o (__aeabi_dmul)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_fixunsdfsi.o)
+                              ./src/main.o (__aeabi_d2uiz)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_truncdfsf2.o)
+                              ./src/main.o (__aeabi_d2f)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_addsubsf3.o)
+                              ./src/main.o (__aeabi_fsub)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_muldivsf3.o)
+                              ./src/main.o (__aeabi_fmul)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_fixsfsi.o)
+                              ./src/main.o (__aeabi_f2iz)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_aeabi_uldivmod.o)
+                              ./emlib/em_usart.o (__aeabi_uldivmod)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(bpabi.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_aeabi_uldivmod.o) (__gnu_uldivmod_helper)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_dvmd_tls.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_divdi3.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(bpabi.o) (__divdi3)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_udivdi3.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(bpabi.o) (__udivdi3)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-atof.o)
+                              ./src/main.o (atof)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-exit.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (exit)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-impure.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-init.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (__libc_init_array)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memcpy.o)
+                              ./lmic-master/src/lmic/lmic.o (memcpy)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memset.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (memset)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sprintf.o)
+                              ./src/main.o (sprintf)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strcmp.o)
+                              ./src/main.o (strcmp)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strlen.o)
+                              ./src/main.o (strlen)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strncpy.o)
+                              ./src/main.o (strncpy)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strtod.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-atof.o) (strtod)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-gdtoa-gethex.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strtod.o) (__gethex)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-gdtoa-hexnan.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strtod.o) (__hexnan)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-locale.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strtod.o) (_localeconv_r)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strtod.o) (_Balloc)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-callocr.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o) (_calloc_r)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-mallocr.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-callocr.o) (_malloc_r)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sprintf.o) (_svfprintf_r)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o) (_printf_i)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-s_fpclassify.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strtod.o) (__fpclassifyd)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sbrkr.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sf_nan.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strtod.o) (nanf)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strncmp.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strtod.o) (strncmp)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-malloc.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o) (malloc)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memchr.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o) (memchr)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memmove.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o) (memmove)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-freer.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o) (_free_r)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-reallocr.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o) (_realloc_r)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-reent.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sbrkr.o) (errno)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-msizer.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libnosys.a(sbrk.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sbrkr.o) (_sbrk)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libnosys.a(_exit.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-exit.o) (_exit)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_cmpdf2.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strtod.o) (__aeabi_dcmpeq)
+/home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_fixdfsi.o)
+                              /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strtod.o) (__aeabi_d2iz)
+
+Allocating common symbols
+Common symbol       size              file
+
+float_str           0xa               ./src/main.o
+errno               0x4               /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-reent.o)
+sendjob             0xc               ./src/main.o
+output              0x32              ./src/main.o
+AESKEY              0xb0              ./lmic-master/src/lmic/aes.o
+interruptStatus     0x1               ./src/main.o
+month               0x1               ./src/main.o
+SpeedGPS            0x4               ./src/main.o
+dataToString        0x32              ./src/main.o
+State_gps           0x1               ./src/main.o
+minute              0x1               ./src/main.o
+floatToString       0xf               ./src/main.o
+adcRead             0x2               ./src/main.o
+AESAUX              0x10              ./lmic-master/src/lmic/aes.o
+hour                0x1               ./src/main.o
+LMIC                0x194             ./lmic-master/src/lmic/lmic.o
+time_update         0x4               ./src/main.o
+i2cread             0x1               ./src/main.o
+year                0x1               ./src/main.o
+sec                 0x1               ./src/main.o
+msTicks             0x4               ./src/delay.o
+date                0x1               ./src/main.o
+dataGpsInput        0x80              ./src/main.o
+OrGPS               0x4               ./src/main.o
+inputVol            0x4               ./src/main.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crti.o
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crti.o
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crti.o
+ .data          0x00000000        0x4 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtbegin.o
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .data          0x00000000        0x0 ./CMSIS/EFM32JG1B/startup_efm32jg1b.o
+ .bss           0x00000000        0x0 ./CMSIS/EFM32JG1B/startup_efm32jg1b.o
+ .text          0x00000000        0x0 ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+ .data          0x00000000        0x0 ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+ .bss           0x00000000        0x0 ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+ .text.SystemHFXOClockSet
+                0x00000000       0x30 ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+ .text          0x00000000        0x0 ./emlib/em_adc.o
+ .data          0x00000000        0x0 ./emlib/em_adc.o
+ .bss           0x00000000        0x0 ./emlib/em_adc.o
+ .text.ADC_ScanInputClear
+                0x00000000       0x28 ./emlib/em_adc.o
+ .text.ADC_ScanSingleEndedInputAdd
+                0x00000000       0x9c ./emlib/em_adc.o
+ .text.ADC_ScanDifferentialInputAdd
+                0x00000000      0x190 ./emlib/em_adc.o
+ .text.ADC_InitScan
+                0x00000000      0x114 ./emlib/em_adc.o
+ .text.ADC_DataIdScanGet
+                0x00000000       0x2c ./emlib/em_adc.o
+ .text.ADC_Reset
+                0x00000000       0x98 ./emlib/em_adc.o
+ .text          0x00000000        0x0 ./emlib/em_assert.o
+ .data          0x00000000        0x0 ./emlib/em_assert.o
+ .bss           0x00000000        0x0 ./emlib/em_assert.o
+ .debug_line    0x00000000        0x0 ./emlib/em_assert.o
+ .debug_str     0x00000000      0x147 ./emlib/em_assert.o
+ .comment       0x00000000       0x71 ./emlib/em_assert.o
+ .ARM.attributes
+                0x00000000       0x33 ./emlib/em_assert.o
+ .text          0x00000000        0x0 ./emlib/em_cmu.o
+ .data          0x00000000        0x0 ./emlib/em_cmu.o
+ .bss           0x00000000        0x0 ./emlib/em_cmu.o
+ .text.CMU_AUXHFRCODevinfoGet
+                0x00000000       0xdc ./emlib/em_cmu.o
+ .text.CMU_AUXHFRCOBandGet
+                0x00000000       0x18 ./emlib/em_cmu.o
+ .text.CMU_AUXHFRCOBandSet
+                0x00000000       0x98 ./emlib/em_cmu.o
+ .text.CMU_Calibrate
+                0x00000000       0x88 ./emlib/em_cmu.o
+ .text.CMU_CalibrateConfig
+                0x00000000       0xd8 ./emlib/em_cmu.o
+ .text.CMU_CalibrateCountGet
+                0x00000000       0x38 ./emlib/em_cmu.o
+ .text.CMU_ClockDivGet
+                0x00000000       0x1c ./emlib/em_cmu.o
+ .text.CMU_ClockPrescGet
+                0x00000000      0x12c ./emlib/em_cmu.o
+ .text.CMU_FreezeEnable
+                0x00000000       0x3c ./emlib/em_cmu.o
+ .text.CMU_HFRCODevinfoGet
+                0x00000000       0xdc ./emlib/em_cmu.o
+ .text.CMU_HFRCOBandGet
+                0x00000000       0x18 ./emlib/em_cmu.o
+ .text.CMU_HFRCOBandSet
+                0x00000000       0xec ./emlib/em_cmu.o
+ .text.CMU_HFXOAutostartEnable
+                0x00000000       0x7c ./emlib/em_cmu.o
+ .text.CMU_LCDClkFDIVGet
+                0x00000000       0x10 ./emlib/em_cmu.o
+ .text.CMU_LCDClkFDIVSet
+                0x00000000       0x14 ./emlib/em_cmu.o
+ .text.CMU_PCNTClockExternalGet
+                0x00000000       0x40 ./emlib/em_cmu.o
+ .text.CMU_PCNTClockExternalSet
+                0x00000000       0x34 ./emlib/em_cmu.o
+ .text          0x00000000        0x0 ./emlib/em_cryotimer.o
+ .data          0x00000000        0x0 ./emlib/em_cryotimer.o
+ .bss           0x00000000        0x0 ./emlib/em_cryotimer.o
+ .text          0x00000000        0x0 ./emlib/em_dma.o
+ .data          0x00000000        0x0 ./emlib/em_dma.o
+ .bss           0x00000000        0x0 ./emlib/em_dma.o
+ .debug_info    0x00000000       0x94 ./emlib/em_dma.o
+ .debug_abbrev  0x00000000       0x4b ./emlib/em_dma.o
+ .debug_aranges
+                0x00000000       0x18 ./emlib/em_dma.o
+ .debug_line    0x00000000      0x194 ./emlib/em_dma.o
+ .debug_str     0x00000000      0x1f0 ./emlib/em_dma.o
+ .comment       0x00000000       0x71 ./emlib/em_dma.o
+ .ARM.attributes
+                0x00000000       0x33 ./emlib/em_dma.o
+ .text          0x00000000        0x0 ./emlib/em_emu.o
+ .data          0x00000000        0x0 ./emlib/em_emu.o
+ .bss           0x00000000        0x0 ./emlib/em_emu.o
+ .text.BUS_RegBitRead
+                0x00000000       0x2c ./emlib/em_emu.o
+ .text.EMU_IntClear
+                0x00000000       0x1c ./emlib/em_emu.o
+ .text.EMU_IntGet
+                0x00000000       0x18 ./emlib/em_emu.o
+ .text.SYSTEM_GetDevinfoRev
+                0x00000000       0x18 ./emlib/em_emu.o
+ .bss.dcdcEm01LoadCurrent_mA
+                0x00000000        0x2 ./emlib/em_emu.o
+ .text.EMU_EnterEM3
+                0x00000000       0x78 ./emlib/em_emu.o
+ .text.EMU_Save
+                0x00000000        0xc ./emlib/em_emu.o
+ .text.EMU_Restore
+                0x00000000        0xc ./emlib/em_emu.o
+ .text.EMU_EnterEM4H
+                0x00000000       0x18 ./emlib/em_emu.o
+ .text.EMU_EnterEM4S
+                0x00000000       0x18 ./emlib/em_emu.o
+ .text.EMU_MemPwrDown
+                0x00000000       0x20 ./emlib/em_emu.o
+ .text.EMU_RamPowerDown
+                0x00000000       0xa0 ./emlib/em_emu.o
+ .text.EMU_UpdateOscConfig
+                0x00000000        0xc ./emlib/em_emu.o
+ .text.dcdcConstCalibrationLoad
+                0x00000000       0xc4 ./emlib/em_emu.o
+ .text.dcdcValidatedConfigSet
+                0x00000000       0xb0 ./emlib/em_emu.o
+ .text.userCurrentLimitsSet
+                0x00000000       0x2c ./emlib/em_emu.o
+ .text.compCtrlSet
+                0x00000000       0x3c ./emlib/em_emu.o
+ .text.lpCmpHystCalibrationLoad
+                0x00000000       0xd0 ./emlib/em_emu.o
+ .text.lpGetDevinfoVrefLowHigh
+                0x00000000      0x15c ./emlib/em_emu.o
+ .text.EMU_DCDCConductionModeSet
+                0x00000000       0xac ./emlib/em_emu.o
+ .text.EMU_DCDCInit
+                0x00000000      0x114 ./emlib/em_emu.o
+ .text.EMU_DCDCOutputVoltageSet
+                0x00000000      0x20c ./emlib/em_emu.o
+ .text.EMU_DCDCOptimizeSlice
+                0x00000000       0xd8 ./emlib/em_emu.o
+ .text.EMU_DCDCLnRcoBandSet
+                0x00000000       0x54 ./emlib/em_emu.o
+ .text.vmonCalibratedThreshold
+                0x00000000      0x198 ./emlib/em_emu.o
+ .text.EMU_VmonInit
+                0x00000000      0x1b8 ./emlib/em_emu.o
+ .text.EMU_VmonHystInit
+                0x00000000      0x100 ./emlib/em_emu.o
+ .text.EMU_VmonEnable
+                0x00000000       0x7c ./emlib/em_emu.o
+ .text.EMU_VmonChannelStatusGet
+                0x00000000       0x64 ./emlib/em_emu.o
+ .text.EMU_SetBiasMode
+                0x00000000       0xa4 ./emlib/em_emu.o
+ .text          0x00000000        0x0 ./emlib/em_gpio.o
+ .data          0x00000000        0x0 ./emlib/em_gpio.o
+ .bss           0x00000000        0x0 ./emlib/em_gpio.o
+ .text.GPIO_DbgLocationSet
+                0x00000000       0x14 ./emlib/em_gpio.o
+ .text.GPIO_DriveStrengthSet
+                0x00000000       0x60 ./emlib/em_gpio.o
+ .text.GPIO_PinModeGet
+                0x00000000       0x8c ./emlib/em_gpio.o
+ .text          0x00000000        0x0 ./emlib/em_i2c.o
+ .data          0x00000000        0x0 ./emlib/em_i2c.o
+ .bss           0x00000000        0x0 ./emlib/em_i2c.o
+ .text.I2C_BusFreqGet
+                0x00000000       0x44 ./emlib/em_i2c.o
+ .text.I2C_Enable
+                0x00000000       0x20 ./emlib/em_i2c.o
+ .text.I2C_Reset
+                0x00000000       0x3c ./emlib/em_i2c.o
+ .text          0x00000000        0x0 ./emlib/em_int.o
+ .data          0x00000000        0x0 ./emlib/em_int.o
+ .bss           0x00000000        0x0 ./emlib/em_int.o
+ .text          0x00000000        0x0 ./emlib/em_ldma.o
+ .data          0x00000000        0x0 ./emlib/em_ldma.o
+ .bss           0x00000000        0x0 ./emlib/em_ldma.o
+ .text.NVIC_EnableIRQ
+                0x00000000       0x30 ./emlib/em_ldma.o
+ .text.NVIC_DisableIRQ
+                0x00000000       0x34 ./emlib/em_ldma.o
+ .text.NVIC_ClearPendingIRQ
+                0x00000000       0x34 ./emlib/em_ldma.o
+ .text.NVIC_SetPriority
+                0x00000000       0x54 ./emlib/em_ldma.o
+ .text.BUS_RegBitWrite
+                0x00000000       0x2c ./emlib/em_ldma.o
+ .text.BUS_RegMaskedClear
+                0x00000000       0x24 ./emlib/em_ldma.o
+ .text.LDMA_DeInit
+                0x00000000       0x28 ./emlib/em_ldma.o
+ .text.LDMA_EnableChannelRequest
+                0x00000000       0x2c ./emlib/em_ldma.o
+ .text.LDMA_Init
+                0x00000000       0x70 ./emlib/em_ldma.o
+ .text.LDMA_StartTransfer
+                0x00000000      0x150 ./emlib/em_ldma.o
+ .text.LDMA_StopTransfer
+                0x00000000       0x44 ./emlib/em_ldma.o
+ .text.LDMA_TransferDone
+                0x00000000       0x50 ./emlib/em_ldma.o
+ .text.LDMA_TransferRemainingCount
+                0x00000000       0x80 ./emlib/em_ldma.o
+ .debug_info    0x00000000     0x110a ./emlib/em_ldma.o
+ .debug_abbrev  0x00000000      0x264 ./emlib/em_ldma.o
+ .debug_loc     0x00000000      0x434 ./emlib/em_ldma.o
+ .debug_aranges
+                0x00000000       0x80 ./emlib/em_ldma.o
+ .debug_ranges  0x00000000       0x70 ./emlib/em_ldma.o
+ .debug_line    0x00000000      0x467 ./emlib/em_ldma.o
+ .debug_str     0x00000000      0xa7e ./emlib/em_ldma.o
+ .comment       0x00000000       0x71 ./emlib/em_ldma.o
+ .debug_frame   0x00000000      0x1f4 ./emlib/em_ldma.o
+ .ARM.attributes
+                0x00000000       0x33 ./emlib/em_ldma.o
+ .text          0x00000000        0x0 ./emlib/em_leuart.o
+ .data          0x00000000        0x0 ./emlib/em_leuart.o
+ .bss           0x00000000        0x0 ./emlib/em_leuart.o
+ .text.LEUART_BaudrateCalc
+                0x00000000       0x60 ./emlib/em_leuart.o
+ .text.LEUART_BaudrateGet
+                0x00000000       0x40 ./emlib/em_leuart.o
+ .text.LEUART_Reset
+                0x00000000       0x5c ./emlib/em_leuart.o
+ .text.LEUART_RxExt
+                0x00000000       0x28 ./emlib/em_leuart.o
+ .text.LEUART_TxExt
+                0x00000000       0x30 ./emlib/em_leuart.o
+ .text          0x00000000        0x0 ./emlib/em_rmu.o
+ .data          0x00000000        0x0 ./emlib/em_rmu.o
+ .bss           0x00000000        0x0 ./emlib/em_rmu.o
+ .text.SL_CTZ   0x00000000       0x28 ./emlib/em_rmu.o
+ .rodata.resetCauseMasks
+                0x00000000       0x48 ./emlib/em_rmu.o
+ .text.RMU_ResetControl
+                0x00000000       0x40 ./emlib/em_rmu.o
+ .text.RMU_ResetCauseClear
+                0x00000000       0x18 ./emlib/em_rmu.o
+ .text.RMU_ResetCauseGet
+                0x00000000       0xd8 ./emlib/em_rmu.o
+ .debug_info    0x00000000      0x31f ./emlib/em_rmu.o
+ .debug_abbrev  0x00000000      0x1b5 ./emlib/em_rmu.o
+ .debug_loc     0x00000000      0x14c ./emlib/em_rmu.o
+ .debug_aranges
+                0x00000000       0x38 ./emlib/em_rmu.o
+ .debug_ranges  0x00000000       0x28 ./emlib/em_rmu.o
+ .debug_line    0x00000000      0x34b ./emlib/em_rmu.o
+ .debug_str     0x00000000      0x3ba ./emlib/em_rmu.o
+ .comment       0x00000000       0x71 ./emlib/em_rmu.o
+ .debug_frame   0x00000000       0xa4 ./emlib/em_rmu.o
+ .ARM.attributes
+                0x00000000       0x33 ./emlib/em_rmu.o
+ .text          0x00000000        0x0 ./emlib/em_rtcc.o
+ .data          0x00000000        0x0 ./emlib/em_rtcc.o
+ .bss           0x00000000        0x0 ./emlib/em_rtcc.o
+ .text.RTCC_Unlock
+                0x00000000       0x18 ./emlib/em_rtcc.o
+ .text.RTCC_ChannelInit
+                0x00000000       0x5c ./emlib/em_rtcc.o
+ .text.RTCC_Reset
+                0x00000000       0x94 ./emlib/em_rtcc.o
+ .text.RTCC_StatusClear
+                0x00000000       0x24 ./emlib/em_rtcc.o
+ .text          0x00000000        0x0 ./emlib/em_system.o
+ .data          0x00000000        0x0 ./emlib/em_system.o
+ .bss           0x00000000        0x0 ./emlib/em_system.o
+ .text.SYSTEM_GetCalibrationValue
+                0x00000000       0x5c ./emlib/em_system.o
+ .text          0x00000000        0x0 ./emlib/em_usart.o
+ .data          0x00000000        0x0 ./emlib/em_usart.o
+ .bss           0x00000000        0x0 ./emlib/em_usart.o
+ .text.USART_BaudrateAsyncSet
+                0x00000000       0xb0 ./emlib/em_usart.o
+ .text.USART_BaudrateCalc
+                0x00000000      0x124 ./emlib/em_usart.o
+ .text.USART_BaudrateGet
+                0x00000000       0x50 ./emlib/em_usart.o
+ .text.USART_InitAsync
+                0x00000000       0xbc ./emlib/em_usart.o
+ .text.USARTn_InitIrDA
+                0x00000000       0x6c ./emlib/em_usart.o
+ .text.USART_InitI2s
+                0x00000000       0x7c ./emlib/em_usart.o
+ .text.USART_InitPrsTrigger
+                0x00000000       0x64 ./emlib/em_usart.o
+ .text.USART_RxDouble
+                0x00000000       0x28 ./emlib/em_usart.o
+ .text.USART_RxDoubleExt
+                0x00000000       0x28 ./emlib/em_usart.o
+ .text.USART_RxExt
+                0x00000000       0x28 ./emlib/em_usart.o
+ .text.USART_SpiTransfer
+                0x00000000       0x40 ./emlib/em_usart.o
+ .text.USART_TxDouble
+                0x00000000       0x2c ./emlib/em_usart.o
+ .text.USART_TxDoubleExt
+                0x00000000       0x28 ./emlib/em_usart.o
+ .text.USART_TxExt
+                0x00000000       0x2c ./emlib/em_usart.o
+ .text          0x00000000        0x0 ./lmic-master/src/hal/hal.o
+ .data          0x00000000        0x0 ./lmic-master/src/hal/hal.o
+ .bss           0x00000000        0x0 ./lmic-master/src/hal/hal.o
+ .text.RTCC_ChannelCCVSet
+                0x00000000       0x28 ./lmic-master/src/hal/hal.o
+ .text.hal_checkTimer
+                0x00000000       0x58 ./lmic-master/src/hal/hal.o
+ .text          0x00000000        0x0 ./lmic-master/src/lmic/aes.o
+ .data          0x00000000        0x0 ./lmic-master/src/lmic/aes.o
+ .bss           0x00000000        0x0 ./lmic-master/src/lmic/aes.o
+ .text          0x00000000        0x0 ./lmic-master/src/lmic/lmic.o
+ .data          0x00000000        0x0 ./lmic-master/src/lmic/lmic.o
+ .bss           0x00000000        0x0 ./lmic-master/src/lmic/lmic.o
+ .text.setSf    0x00000000       0x30 ./lmic-master/src/lmic/lmic.o
+ .text.setBw    0x00000000       0x30 ./lmic-master/src/lmic/lmic.o
+ .text.setIh    0x00000000       0x2c ./lmic-master/src/lmic/lmic.o
+ .text.makeRps  0x00000000       0x54 ./lmic-master/src/lmic/lmic.o
+ .text.sameSfBw
+                0x00000000       0x34 ./lmic-master/src/lmic/lmic.o
+ .text.isFasterDR
+                0x00000000       0x2c ./lmic-master/src/lmic/lmic.o
+ .text.isSlowerDR
+                0x00000000       0x2c ./lmic-master/src/lmic/lmic.o
+ .text.incDR    0x00000000       0x30 ./lmic-master/src/lmic/lmic.o
+ .text.assertDR
+                0x00000000       0x2c ./lmic-master/src/lmic/lmic.o
+ .rodata.maxFrameLens
+                0x00000000        0x4 ./lmic-master/src/lmic/lmic.o
+ .text.calcRxWindow
+                0x00000000       0x94 ./lmic-master/src/lmic/lmic.o
+ .text.LMIC_setupBand
+                0x00000000       0x5c ./lmic-master/src/lmic/lmic.o
+ .text.LMIC_setAdrMode
+                0x00000000       0x2c ./lmic-master/src/lmic/lmic.o
+ .text.LMIC_shutdown
+                0x00000000       0x2c ./lmic-master/src/lmic/lmic.o
+ .text.LMIC_restart
+                0x00000000       0x24 ./lmic-master/src/lmic/lmic.o
+ .text.LMIC_clrTxData
+                0x00000000       0x48 ./lmic-master/src/lmic/lmic.o
+ .text.LMIC_sendAlive
+                0x00000000       0x20 ./lmic-master/src/lmic/lmic.o
+ .text.LMIC_tryRejoin
+                0x00000000       0x20 ./lmic-master/src/lmic/lmic.o
+ .text          0x00000000        0x0 ./lmic-master/src/lmic/oslmic.o
+ .data          0x00000000        0x0 ./lmic-master/src/lmic/oslmic.o
+ .bss           0x00000000        0x0 ./lmic-master/src/lmic/oslmic.o
+ .text.os_runloop
+                0x00000000        0xc ./lmic-master/src/lmic/oslmic.o
+ .text.os_runloop_once
+                0x00000000       0x70 ./lmic-master/src/lmic/oslmic.o
+ .text          0x00000000        0x0 ./lmic-master/src/lmic/radio.o
+ .data          0x00000000        0x0 ./lmic-master/src/lmic/radio.o
+ .bss           0x00000000        0x0 ./lmic-master/src/lmic/radio.o
+ .text.radio_rssi
+                0x00000000       0x24 ./lmic-master/src/lmic/radio.o
+ .text          0x00000000        0x0 ./src/adc.o
+ .data          0x00000000        0x0 ./src/adc.o
+ .bss           0x00000000        0x0 ./src/adc.o
+ .text          0x00000000        0x0 ./src/config.o
+ .data          0x00000000        0x0 ./src/config.o
+ .bss           0x00000000        0x0 ./src/config.o
+ .text          0x00000000        0x0 ./src/delay.o
+ .data          0x00000000        0x0 ./src/delay.o
+ .bss           0x00000000        0x0 ./src/delay.o
+ .text          0x00000000        0x0 ./src/i2c-MMA8652.o
+ .data          0x00000000        0x0 ./src/i2c-MMA8652.o
+ .bss           0x00000000        0x0 ./src/i2c-MMA8652.o
+ .text.disableInt
+                0x00000000       0x38 ./src/i2c-MMA8652.o
+ .text.enableTapInt
+                0x00000000       0x88 ./src/i2c-MMA8652.o
+ .text.disableTapInt
+                0x00000000       0x30 ./src/i2c-MMA8652.o
+ .text.clearFlagTapInt
+                0x00000000        0xc ./src/i2c-MMA8652.o
+ .text.disableFreeFallInt
+                0x00000000       0x30 ./src/i2c-MMA8652.o
+ .text.enablePlInt
+                0x00000000       0x30 ./src/i2c-MMA8652.o
+ .text.disablePlInt
+                0x00000000       0x30 ./src/i2c-MMA8652.o
+ .text.clearFlagPlInt
+                0x00000000        0xc ./src/i2c-MMA8652.o
+ .text.sleep    0x00000000       0x50 ./src/i2c-MMA8652.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .bss.timeUp    0x00000000        0x1 ./src/main.o
+ .bss.DISPLAY_GPS
+                0x00000000        0x4 ./src/main.o
+ .data.DISPLAY_RTC
+                0x00000000        0x4 ./src/main.o
+ .data.DISPLAY_SPEED_ORG
+                0x00000000        0x4 ./src/main.o
+ .data.DISPLAY_MAX
+                0x00000000        0x4 ./src/main.o
+ .rodata.devAdr
+                0x00000000        0x4 ./src/main.o
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_truncdfsf2.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_muldivsf3.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_muldivsf3.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_fixsfsi.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_fixsfsi.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(bpabi.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(bpabi.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_divdi3.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_divdi3.o)
+ .ARM.extab     0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_divdi3.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_udivdi3.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_udivdi3.o)
+ .ARM.extab     0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_udivdi3.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-atof.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-atof.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-atof.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sprintf.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sprintf.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sprintf.o)
+ .text._sprintf_r
+                0x00000000       0x40 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sprintf.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strcmp.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strcmp.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strncpy.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strncpy.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strncpy.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strtod.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strtod.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strtod.o)
+ .text.strtof   0x00000000       0x30 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strtod.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-gdtoa-gethex.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-gdtoa-gethex.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-gdtoa-gethex.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-gdtoa-hexnan.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-gdtoa-hexnan.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-gdtoa-hexnan.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-locale.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-locale.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-locale.o)
+ .text._setlocale_r
+                0x00000000       0x40 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-locale.o)
+ .text.__locale_charset
+                0x00000000        0x8 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-locale.o)
+ .text.__locale_mb_cur_max
+                0x00000000        0xc /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-locale.o)
+ .text.__locale_msgcharset
+                0x00000000        0x8 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-locale.o)
+ .text.__locale_cjk_lang
+                0x00000000        0x4 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-locale.o)
+ .text.setlocale
+                0x00000000       0x14 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-locale.o)
+ .text.localeconv
+                0x00000000        0x8 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-locale.o)
+ .data.lc_message_charset
+                0x00000000       0x20 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-locale.o)
+ .bss._PathLocale
+                0x00000000        0x4 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-locale.o)
+ .bss.__nlocale_changed
+                0x00000000        0x4 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-locale.o)
+ .bss.__mlocale_changed
+                0x00000000        0x4 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-locale.o)
+ .data.lc_ctype_charset
+                0x00000000       0x20 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-locale.o)
+ .data.__mb_cur_max
+                0x00000000        0x4 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-locale.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+ .text._mprec_log10
+                0x00000000       0x34 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+ .rodata.__mprec_tinytens
+                0x00000000       0x28 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-callocr.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-callocr.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-callocr.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .text.__ssprint_r
+                0x00000000       0xfe /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-s_fpclassify.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-s_fpclassify.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-s_fpclassify.o)
+ .text.__fpclassifyd
+                0x00000000       0x50 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-s_fpclassify.o)
+ .debug_frame   0x00000000       0x28 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-s_fpclassify.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-s_fpclassify.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sf_nan.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sf_nan.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sf_nan.o)
+ .text.nanf     0x00000000        0x8 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sf_nan.o)
+ .debug_frame   0x00000000       0x20 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sf_nan.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sf_nan.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strncmp.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strncmp.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strncmp.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-malloc.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-malloc.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-malloc.o)
+ .text.free     0x00000000       0x10 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-malloc.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memchr.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memchr.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memchr.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-freer.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-freer.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-reent.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1a /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xb4 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-reent.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-msizer.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-msizer.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-msizer.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libnosys.a(sbrk.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libnosys.a(_exit.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libnosys.a(_exit.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_fixdfsi.o)
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtend.o
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtend.o
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtend.o
+ .text          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtn.o
+ .data          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtn.o
+ .bss           0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00020000         xr
+RAM              0x20000000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crti.o
+LOAD /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtbegin.o
+LOAD /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+LOAD ./CMSIS/EFM32JG1B/startup_efm32jg1b.o
+LOAD ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+LOAD ./emlib/em_adc.o
+LOAD ./emlib/em_assert.o
+LOAD ./emlib/em_cmu.o
+LOAD ./emlib/em_cryotimer.o
+LOAD ./emlib/em_dma.o
+LOAD ./emlib/em_emu.o
+LOAD ./emlib/em_gpio.o
+LOAD ./emlib/em_i2c.o
+LOAD ./emlib/em_int.o
+LOAD ./emlib/em_ldma.o
+LOAD ./emlib/em_leuart.o
+LOAD ./emlib/em_rmu.o
+LOAD ./emlib/em_rtcc.o
+LOAD ./emlib/em_system.o
+LOAD ./emlib/em_usart.o
+LOAD ./lmic-master/src/hal/hal.o
+LOAD ./lmic-master/src/lmic/aes.o
+LOAD ./lmic-master/src/lmic/lmic.o
+LOAD ./lmic-master/src/lmic/oslmic.o
+LOAD ./lmic-master/src/lmic/radio.o
+LOAD ./src/adc.o
+LOAD ./src/config.o
+LOAD ./src/delay.o
+LOAD ./src/i2c-MMA8652.o
+LOAD ./src/main.o
+START GROUP
+LOAD /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a
+LOAD /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a
+LOAD /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libnosys.a
+END GROUP
+START GROUP
+LOAD /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a
+LOAD /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libg_nano.a
+LOAD /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a
+END GROUP
+START GROUP
+LOAD /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a
+LOAD /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a
+END GROUP
+LOAD /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtend.o
+LOAD /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtn.o
+
+.text           0x00000000     0xd5c4
+ *(.vectors)
+ .vectors       0x00000000       0xc8 ./CMSIS/EFM32JG1B/startup_efm32jg1b.o
+                0x00000000                __Vectors
+                0x000000c8                __Vectors_End = .
+                0x000000c8                __Vectors_Size = (__Vectors_End - __Vectors)
+                0x000000c8                __end__ = .
+ *(.text*)
+ .text          0x000000c8       0x5c /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtbegin.o
+ .text          0x00000124       0x74 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+                0x00000124                _mainCRTStartup
+                0x00000124                _start
+ .text          0x00000198       0x30 ./CMSIS/EFM32JG1B/startup_efm32jg1b.o
+                0x00000198                Reset_Handler
+                0x000001c4                DebugMon_Handler
+                0x000001c4                USART0_TX_IRQHandler
+                0x000001c4                I2C0_IRQHandler
+                0x000001c4                HardFault_Handler
+                0x000001c4                USART1_RX_IRQHandler
+                0x000001c4                PendSV_Handler
+                0x000001c4                NMI_Handler
+                0x000001c4                WDOG0_IRQHandler
+                0x000001c4                USART1_TX_IRQHandler
+                0x000001c4                MSC_IRQHandler
+                0x000001c4                ADC0_IRQHandler
+                0x000001c4                UsageFault_Handler
+                0x000001c4                LDMA_IRQHandler
+                0x000001c4                TIMER0_IRQHandler
+                0x000001c4                LETIMER0_IRQHandler
+                0x000001c4                TIMER1_IRQHandler
+                0x000001c4                Default_Handler
+                0x000001c4                EMU_IRQHandler
+                0x000001c4                PCNT0_IRQHandler
+                0x000001c4                ACMP0_IRQHandler
+                0x000001c4                USART0_RX_IRQHandler
+                0x000001c4                MemManage_Handler
+                0x000001c4                SVC_Handler
+                0x000001c4                CRYPTO_IRQHandler
+                0x000001c4                CMU_IRQHandler
+                0x000001c4                BusFault_Handler
+                0x000001c4                IDAC0_IRQHandler
+ .text.SystemCoreClockGet
+                0x000001c8       0x44 ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+                0x000001c8                SystemCoreClockGet
+ .text.SystemMaxCoreClockGet
+                0x0000020c       0x14 ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+                0x0000020c                SystemMaxCoreClockGet
+ .text.SystemHFClockGet
+                0x00000220       0x70 ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+                0x00000220                SystemHFClockGet
+ .text.SystemHFXOClockGet
+                0x00000290       0x18 ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+                0x00000290                SystemHFXOClockGet
+ .text.SystemInit
+                0x000002a8        0xc ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+                0x000002a8                SystemInit
+ .text.SystemLFRCOClockGet
+                0x000002b4       0x14 ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+                0x000002b4                SystemLFRCOClockGet
+ .text.SystemULFRCOClockGet
+                0x000002c8       0x14 ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+                0x000002c8                SystemULFRCOClockGet
+ .text.SystemLFXOClockGet
+                0x000002dc       0x18 ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+                0x000002dc                SystemLFXOClockGet
+ .text.SystemLFXOClockSet
+                0x000002f4       0x30 ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+                0x000002f4                SystemLFXOClockSet
+ .text.ADC_IntClear
+                0x00000324       0x1c ./emlib/em_adc.o
+ .text.BUS_RegBitWrite
+                0x00000340       0x2c ./emlib/em_adc.o
+ .text.BUS_RegMaskedSet
+                0x0000036c       0x24 ./emlib/em_adc.o
+ .text.BUS_RegMaskedClear
+                0x00000390       0x24 ./emlib/em_adc.o
+ .text.BUS_RegMaskedWrite
+                0x000003b4       0x24 ./emlib/em_adc.o
+ .text.ADC_LoadDevinfoCal
+                0x000003d8      0x190 ./emlib/em_adc.o
+ .text.ADC_Init
+                0x00000568       0x90 ./emlib/em_adc.o
+                0x00000568                ADC_Init
+ .text.ADC_InitSingle
+                0x000005f8      0x158 ./emlib/em_adc.o
+                0x000005f8                ADC_InitSingle
+ .text.ADC_PrescaleCalc
+                0x00000750       0x64 ./emlib/em_adc.o
+                0x00000750                ADC_PrescaleCalc
+ .text.ADC_TimebaseCalc
+                0x000007b4       0x50 ./emlib/em_adc.o
+                0x000007b4                ADC_TimebaseCalc
+ .text.BUS_RegBitWrite
+                0x00000804       0x2c ./emlib/em_cmu.o
+ .text.BUS_RegBitRead
+                0x00000830       0x2c ./emlib/em_cmu.o
+ .text.BUS_RegMaskedSet
+                0x0000085c       0x24 ./emlib/em_cmu.o
+ .text.BUS_RegMaskedClear
+                0x00000880       0x24 ./emlib/em_cmu.o
+ .text.BUS_RegMaskedWrite
+                0x000008a4       0x24 ./emlib/em_cmu.o
+ .text.CMU_Log2ToDiv
+                0x000008c8       0x1c ./emlib/em_cmu.o
+ .text.CMU_PrescToLog2
+                0x000008e4       0x28 ./emlib/em_cmu.o
+ .text.setHfLeConfig
+                0x0000090c       0x64 ./emlib/em_cmu.o
+ .text.auxClkGet
+                0x00000970       0x20 ./emlib/em_cmu.o
+ .text.hfSrcClkGet
+                0x00000990       0x2c ./emlib/em_cmu.o
+ .text.dbgClkGet
+                0x000009bc       0x40 ./emlib/em_cmu.o
+ .text.adcAsyncClkGet
+                0x000009fc       0x80 ./emlib/em_cmu.o
+ .text.flashWaitStateControl
+                0x00000a7c       0x7c ./emlib/em_cmu.o
+ .text.flashWaitStateMax
+                0x00000af8       0x14 ./emlib/em_cmu.o
+ .text.CMU_UpdateWaitStates
+                0x00000b0c       0x18 ./emlib/em_cmu.o
+                0x00000b0c                CMU_UpdateWaitStates
+ .text.getRegIshUpperVal
+                0x00000b24       0x38 ./emlib/em_cmu.o
+ .text.getHfxoTuningMode
+                0x00000b5c       0x1c ./emlib/em_cmu.o
+ .text.setHfxoTuningMode
+                0x00000b78       0x28 ./emlib/em_cmu.o
+ .text.lfClkGet
+                0x00000ba0       0xec ./emlib/em_cmu.o
+ .text.syncReg  0x00000c8c       0x38 ./emlib/em_cmu.o
+ .text.CMU_ClockDivSet
+                0x00000cc4       0x1c ./emlib/em_cmu.o
+                0x00000cc4                CMU_ClockDivSet
+ .text.CMU_ClockEnable
+                0x00000ce0       0xcc ./emlib/em_cmu.o
+                0x00000ce0                CMU_ClockEnable
+ .text.CMU_ClockFreqGet
+                0x00000dac      0x198 ./emlib/em_cmu.o
+                0x00000dac                CMU_ClockFreqGet
+ .text.CMU_ClockPrescSet
+                0x00000f44      0x1e8 ./emlib/em_cmu.o
+                0x00000f44                CMU_ClockPrescSet
+ .text.CMU_ClockSelectGet
+                0x0000112c      0x190 ./emlib/em_cmu.o
+                0x0000112c                CMU_ClockSelectGet
+ .text.CMU_ClockSelectSet
+                0x000012bc      0x260 ./emlib/em_cmu.o
+                0x000012bc                CMU_ClockSelectSet
+ .text.CMU_HFXOInit
+                0x0000151c       0xf4 ./emlib/em_cmu.o
+                0x0000151c                CMU_HFXOInit
+ .text.CMU_LFXOInit
+                0x00001610       0x50 ./emlib/em_cmu.o
+                0x00001610                CMU_LFXOInit
+ .text.CMU_OscillatorEnable
+                0x00001660      0x174 ./emlib/em_cmu.o
+                0x00001660                CMU_OscillatorEnable
+ .text.CMU_OscillatorTuningGet
+                0x000017d4       0x74 ./emlib/em_cmu.o
+                0x000017d4                CMU_OscillatorTuningGet
+ .text.CMU_OscillatorTuningSet
+                0x00001848      0x100 ./emlib/em_cmu.o
+                0x00001848                CMU_OscillatorTuningSet
+ .text.CMU_OscillatorTuningWait
+                0x00001948       0x94 ./emlib/em_cmu.o
+                0x00001948                CMU_OscillatorTuningWait
+ .text.CMU_OscillatorTuningOptimize
+                0x000019dc       0x54 ./emlib/em_cmu.o
+                0x000019dc                CMU_OscillatorTuningOptimize
+ .text.BUS_RegBitWrite
+                0x00001a30       0x2c ./emlib/em_cryotimer.o
+ .text.CRYOTIMER_EM4WakeupEnable
+                0x00001a5c       0x20 ./emlib/em_cryotimer.o
+ .text.CRYOTIMER_Init
+                0x00001a7c       0x4c ./emlib/em_cryotimer.o
+                0x00001a7c                CRYOTIMER_Init
+ .text.SystemCoreClockUpdate
+                0x00001ac8        0xc ./emlib/em_emu.o
+ .text.BUS_RegBitWrite
+                0x00001ad4       0x2c ./emlib/em_emu.o
+ .text.EMU_Unlock
+                0x00001b00       0x18 ./emlib/em_emu.o
+ .text.CMU_Lock
+                0x00001b18       0x18 ./emlib/em_emu.o
+ .text.CMU_Unlock
+                0x00001b30       0x1c ./emlib/em_emu.o
+ .text.emState  0x00001b4c       0xd4 ./emlib/em_emu.o
+ .text.dcdcFetCntSet
+                0x00001c20       0x50 ./emlib/em_emu.o
+ .text.dcdcHsFixLnBlock
+                0x00001c70       0x48 ./emlib/em_emu.o
+ .text.EMU_EnterEM2
+                0x00001cb8       0x50 ./emlib/em_emu.o
+                0x00001cb8                EMU_EnterEM2
+ .text.EMU_EnterEM4
+                0x00001d08       0xbc ./emlib/em_emu.o
+                0x00001d08                EMU_EnterEM4
+ .text.EMU_EM23Init
+                0x00001dc4       0x14 ./emlib/em_emu.o
+                0x00001dc4                EMU_EM23Init
+ .text.EMU_EM4Init
+                0x00001dd8       0x74 ./emlib/em_emu.o
+                0x00001dd8                EMU_EM4Init
+ .text.currentLimitersUpdate
+                0x00001e4c       0xec ./emlib/em_emu.o
+ .text.EMU_DCDCModeSet
+                0x00001f38       0xb8 ./emlib/em_emu.o
+                0x00001f38                EMU_DCDCModeSet
+ .text.EMU_DCDCPowerOff
+                0x00001ff0       0x40 ./emlib/em_emu.o
+                0x00001ff0                EMU_DCDCPowerOff
+ .text.BUS_RegBitWrite
+                0x00002030       0x2c ./emlib/em_gpio.o
+ .text.BUS_RegMaskedSet
+                0x0000205c       0x24 ./emlib/em_gpio.o
+ .text.BUS_RegMaskedClear
+                0x00002080       0x24 ./emlib/em_gpio.o
+ .text.BUS_RegMaskedWrite
+                0x000020a4       0x24 ./emlib/em_gpio.o
+ .text.GPIO_EM4SetPinRetention
+                0x000020c8       0x3c ./emlib/em_gpio.o
+ .text.GPIO_IntClear
+                0x00002104       0x20 ./emlib/em_gpio.o
+ .text.GPIO_PinOutClear
+                0x00002124       0x58 ./emlib/em_gpio.o
+ .text.GPIO_PinOutSet
+                0x0000217c       0x58 ./emlib/em_gpio.o
+ .text.GPIO_ExtIntConfig
+                0x000021d4      0x124 ./emlib/em_gpio.o
+                0x000021d4                GPIO_ExtIntConfig
+ .text.GPIO_PinModeSet
+                0x000022f8      0x10c ./emlib/em_gpio.o
+                0x000022f8                GPIO_PinModeSet
+ .text.GPIO_EM4EnablePinWakeup
+                0x00002404       0x58 ./emlib/em_gpio.o
+                0x00002404                GPIO_EM4EnablePinWakeup
+ .text.BUS_RegBitWrite
+                0x0000245c       0x2c ./emlib/em_i2c.o
+ .text.BUS_RegMaskedSet
+                0x00002488       0x24 ./emlib/em_i2c.o
+ .text.BUS_RegMaskedClear
+                0x000024ac       0x24 ./emlib/em_i2c.o
+ .text.BUS_RegMaskedWrite
+                0x000024d0       0x24 ./emlib/em_i2c.o
+ .text.I2C_BusFreqSet
+                0x000024f4       0xf8 ./emlib/em_i2c.o
+                0x000024f4                I2C_BusFreqSet
+ .text.I2C_Init
+                0x000025ec       0x5c ./emlib/em_i2c.o
+                0x000025ec                I2C_Init
+ .text.I2C_Transfer
+                0x00002648      0x420 ./emlib/em_i2c.o
+                0x00002648                I2C_Transfer
+ .text.I2C_TransferInit
+                0x00002a68       0xc0 ./emlib/em_i2c.o
+                0x00002a68                I2C_TransferInit
+ .text.LEUART_Sync
+                0x00002b28       0x30 ./emlib/em_leuart.o
+ .text.LEUART_BaudrateSet
+                0x00002b58       0x6c ./emlib/em_leuart.o
+                0x00002b58                LEUART_BaudrateSet
+ .text.LEUART_Enable
+                0x00002bc4       0x3c ./emlib/em_leuart.o
+                0x00002bc4                LEUART_Enable
+ .text.LEUART_FreezeEnable
+                0x00002c00       0x34 ./emlib/em_leuart.o
+                0x00002c00                LEUART_FreezeEnable
+ .text.LEUART_Init
+                0x00002c34       0x68 ./emlib/em_leuart.o
+                0x00002c34                LEUART_Init
+ .text.LEUART_Rx
+                0x00002c9c       0x28 ./emlib/em_leuart.o
+                0x00002c9c                LEUART_Rx
+ .text.LEUART_Tx
+                0x00002cc4       0x30 ./emlib/em_leuart.o
+                0x00002cc4                LEUART_Tx
+ .text.LEUART_TxDmaInEM2Enable
+                0x00002cf4       0x3c ./emlib/em_leuart.o
+                0x00002cf4                LEUART_TxDmaInEM2Enable
+ .text.LEUART_RxDmaInEM2Enable
+                0x00002d30       0x3c ./emlib/em_leuart.o
+                0x00002d30                LEUART_RxDmaInEM2Enable
+ .text.BUS_RegBitWrite
+                0x00002d6c       0x2c ./emlib/em_rtcc.o
+ .text.RTCC_Enable
+                0x00002d98       0x20 ./emlib/em_rtcc.o
+                0x00002d98                RTCC_Enable
+ .text.RTCC_Init
+                0x00002db8       0x60 ./emlib/em_rtcc.o
+                0x00002db8                RTCC_Init
+ .text.SYSTEM_ChipRevisionGet
+                0x00002e18       0x74 ./emlib/em_system.o
+                0x00002e18                SYSTEM_ChipRevisionGet
+ .text.USART_BaudrateSyncSet
+                0x00002e8c       0x40 ./emlib/em_usart.o
+                0x00002e8c                USART_BaudrateSyncSet
+ .text.USART_Enable
+                0x00002ecc       0x4c ./emlib/em_usart.o
+                0x00002ecc                USART_Enable
+ .text.USART_InitSync
+                0x00002f18       0xf0 ./emlib/em_usart.o
+                0x00002f18                USART_InitSync
+ .text.USART_Reset
+                0x00003008       0x94 ./emlib/em_usart.o
+                0x00003008                USART_Reset
+ .text.USART_Rx
+                0x0000309c       0x28 ./emlib/em_usart.o
+                0x0000309c                USART_Rx
+ .text.USART_Tx
+                0x000030c4       0x2c ./emlib/em_usart.o
+                0x000030c4                USART_Tx
+ .text.NVIC_EnableIRQ
+                0x000030f0       0x30 ./lmic-master/src/hal/hal.o
+ .text.NVIC_ClearPendingIRQ
+                0x00003120       0x34 ./lmic-master/src/hal/hal.o
+ .text.BUS_RegMaskedSet
+                0x00003154       0x24 ./lmic-master/src/hal/hal.o
+ .text.BUS_RegMaskedClear
+                0x00003178       0x24 ./lmic-master/src/hal/hal.o
+ .text.GPIO_IntClear
+                0x0000319c       0x20 ./lmic-master/src/hal/hal.o
+ .text.GPIO_IntGet
+                0x000031bc       0x18 ./lmic-master/src/hal/hal.o
+ .text.GPIO_PinOutClear
+                0x000031d4       0x58 ./lmic-master/src/hal/hal.o
+ .text.GPIO_PinOutSet
+                0x0000322c       0x58 ./lmic-master/src/hal/hal.o
+ .text.GPIO_IntConfig
+                0x00003284       0x38 ./lmic-master/src/hal/hal.o
+ .text.INT_Disable
+                0x000032bc       0x2c ./lmic-master/src/hal/hal.o
+ .text.INT_Enable
+                0x000032e8       0x3c ./lmic-master/src/hal/hal.o
+ .text.RTCC_CounterGet
+                0x00003324       0x18 ./lmic-master/src/hal/hal.o
+ .text.RTCC_IntClear
+                0x0000333c       0x1c ./lmic-master/src/hal/hal.o
+ .text.RTCC_IntDisable
+                0x00003358       0x24 ./lmic-master/src/hal/hal.o
+ .text.RTCC_IntEnable
+                0x0000337c       0x24 ./lmic-master/src/hal/hal.o
+ .text.RTCC_IntGet
+                0x000033a0       0x18 ./lmic-master/src/hal/hal.o
+ .text.hal_io_init
+                0x000033b8       0xb8 ./lmic-master/src/hal/hal.o
+ .text.hal_pin_rxtx
+                0x00003470       0x14 ./lmic-master/src/hal/hal.o
+                0x00003470                hal_pin_rxtx
+ .text.hal_pin_nss
+                0x00003484       0x28 ./lmic-master/src/hal/hal.o
+                0x00003484                hal_pin_nss
+ .text.hal_pin_rst
+                0x000034ac       0x14 ./lmic-master/src/hal/hal.o
+                0x000034ac                hal_pin_rst
+ .text.GPIO_ODD_IRQHandler
+                0x000034c0       0x3c ./lmic-master/src/hal/hal.o
+                0x000034c0                GPIO_ODD_IRQHandler
+ .text.GPIO_EVEN_IRQHandler
+                0x000034fc       0x40 ./lmic-master/src/hal/hal.o
+                0x000034fc                GPIO_EVEN_IRQHandler
+ .text.hal_spi_init
+                0x0000353c      0x198 ./lmic-master/src/hal/hal.o
+ .text.hal_spi  0x000036d4       0x28 ./lmic-master/src/hal/hal.o
+                0x000036d4                hal_spi
+ .text.RTCC_IRQHandler
+                0x000036fc       0x30 ./lmic-master/src/hal/hal.o
+                0x000036fc                RTCC_IRQHandler
+ .text.hal_time_init
+                0x0000372c       0x9c ./lmic-master/src/hal/hal.o
+ .text.hal_ticks
+                0x000037c8       0x48 ./lmic-master/src/hal/hal.o
+                0x000037c8                hal_ticks
+ .text.deltaticks
+                0x00003810       0x3c ./lmic-master/src/hal/hal.o
+ .text.hal_waitUntil
+                0x0000384c       0x1c ./lmic-master/src/hal/hal.o
+                0x0000384c                hal_waitUntil
+ .text.hal_disableIRQs
+                0x00003868        0xc ./lmic-master/src/hal/hal.o
+                0x00003868                hal_disableIRQs
+ .text.hal_enableIRQs
+                0x00003874        0xc ./lmic-master/src/hal/hal.o
+                0x00003874                hal_enableIRQs
+ .text.hal_sleep
+                0x00003880        0xc ./lmic-master/src/hal/hal.o
+                0x00003880                hal_sleep
+ .text.hal_init
+                0x0000388c       0x28 ./lmic-master/src/hal/hal.o
+                0x0000388c                hal_init
+ .text.hal_failed
+                0x000038b4       0x10 ./lmic-master/src/hal/hal.o
+                0x000038b4                hal_failed
+ .text.aesroundkeys
+                0x000038c4       0xf4 ./lmic-master/src/lmic/aes.o
+ .text.os_aes   0x000039b8      0x99c ./lmic-master/src/lmic/aes.o
+                0x000039b8                os_aes
+ .text.getSf    0x00004354       0x20 ./lmic-master/src/lmic/lmic.o
+                0x00004354                getSf
+ .text.getBw    0x00004374       0x24 ./lmic-master/src/lmic/lmic.o
+                0x00004374                getBw
+ .text.getCr    0x00004398       0x24 ./lmic-master/src/lmic/lmic.o
+                0x00004398                getCr
+ .text.setCr    0x000043bc       0x30 ./lmic-master/src/lmic/lmic.o
+                0x000043bc                setCr
+ .text.getNocrc
+                0x000043ec       0x20 ./lmic-master/src/lmic/lmic.o
+                0x000043ec                getNocrc
+ .text.setNocrc
+                0x0000440c       0x2c ./lmic-master/src/lmic/lmic.o
+                0x0000440c                setNocrc
+ .text.getIh    0x00004438       0x20 ./lmic-master/src/lmic/lmic.o
+                0x00004438                getIh
+ .text.updr2rps
+                0x00004458       0x24 ./lmic-master/src/lmic/lmic.o
+                0x00004458                updr2rps
+ .text.dndr2rps
+                0x0000447c       0x28 ./lmic-master/src/lmic/lmic.o
+                0x0000447c                dndr2rps
+ .text.decDR    0x000044a4       0x30 ./lmic-master/src/lmic/lmic.o
+                0x000044a4                decDR
+ .text.validDR  0x000044d4       0x2c ./lmic-master/src/lmic/lmic.o
+                0x000044d4                validDR
+ .text.lowerDR  0x00004500       0x34 ./lmic-master/src/lmic/lmic.o
+                0x00004500                lowerDR
+ .text.os_rlsbf2
+                0x00004534       0x2c ./lmic-master/src/lmic/lmic.o
+                0x00004534                os_rlsbf2
+ .text.os_rlsbf4
+                0x00004560       0x3c ./lmic-master/src/lmic/lmic.o
+                0x00004560                os_rlsbf4
+ .text.os_rmsbf4
+                0x0000459c       0x3c ./lmic-master/src/lmic/lmic.o
+                0x0000459c                os_rmsbf4
+ .text.os_wlsbf2
+                0x000045d8       0x2c ./lmic-master/src/lmic/lmic.o
+                0x000045d8                os_wlsbf2
+ .text.os_wlsbf4
+                0x00004604       0x40 ./lmic-master/src/lmic/lmic.o
+                0x00004604                os_wlsbf4
+ .text.os_wmsbf4
+                0x00004644       0x40 ./lmic-master/src/lmic/lmic.o
+                0x00004644                os_wmsbf4
+ .text.os_getBattLevel
+                0x00004684       0x10 ./lmic-master/src/lmic/lmic.o
+                0x00004684                os_getBattLevel
+ .text.micB0    0x00004694       0x60 ./lmic-master/src/lmic/lmic.o
+ .text.aes_verifyMic
+                0x000046f4       0x58 ./lmic-master/src/lmic/lmic.o
+ .text.aes_appendMic
+                0x0000474c       0x4c ./lmic-master/src/lmic/lmic.o
+ .text.aes_appendMic0
+                0x00004798       0x38 ./lmic-master/src/lmic/lmic.o
+ .text.aes_verifyMic0
+                0x000047d0       0x44 ./lmic-master/src/lmic/lmic.o
+ .text.aes_encrypt
+                0x00004814       0x28 ./lmic-master/src/lmic/lmic.o
+ .text.aes_cipher
+                0x0000483c       0x84 ./lmic-master/src/lmic/lmic.o
+ .text.aes_sessKeys
+                0x000048c0       0x78 ./lmic-master/src/lmic/lmic.o
+ .text.getSensitivity
+                0x00004938       0x40 ./lmic-master/src/lmic/lmic.o
+                0x00004938                getSensitivity
+ .text.calcAirTime
+                0x00004978      0x124 ./lmic-master/src/lmic/lmic.o
+                0x00004978                calcAirTime
+ .text.rndDelay
+                0x00004a9c       0x64 ./lmic-master/src/lmic/lmic.o
+ .text.txDelay  0x00004b00       0x58 ./lmic-master/src/lmic/lmic.o
+ .text.setDrJoin
+                0x00004b58       0x28 ./lmic-master/src/lmic/lmic.o
+ .text.setDrTxpow
+                0x00004b80       0x58 ./lmic-master/src/lmic/lmic.o
+ .text.initDefaultChannels
+                0x00004bd8      0x120 ./lmic-master/src/lmic/lmic.o
+ .text.LMIC_setupChannel
+                0x00004cf8       0xf8 ./lmic-master/src/lmic/lmic.o
+                0x00004cf8                LMIC_setupChannel
+ .text.LMIC_disableChannel
+                0x00004df0       0x54 ./lmic-master/src/lmic/lmic.o
+                0x00004df0                LMIC_disableChannel
+ .text.convFreq
+                0x00004e44       0x44 ./lmic-master/src/lmic/lmic.o
+ .text.mapChannels
+                0x00004e88       0x90 ./lmic-master/src/lmic/lmic.o
+ .text.updateTx
+                0x00004f18       0x90 ./lmic-master/src/lmic/lmic.o
+ .text.nextTx   0x00004fa8      0x138 ./lmic-master/src/lmic/lmic.o
+ .text.initJoinLoop
+                0x000050e0       0x6c ./lmic-master/src/lmic/lmic.o
+ .text.nextJoinState
+                0x0000514c       0xcc ./lmic-master/src/lmic/lmic.o
+ .text.runEngineUpdate
+                0x00005218       0x14 ./lmic-master/src/lmic/lmic.o
+ .text.reportEvent
+                0x0000522c       0x1c ./lmic-master/src/lmic/lmic.o
+ .text.runReset
+                0x00005248       0x1c ./lmic-master/src/lmic/lmic.o
+ .text.stateJustJoined
+                0x00005264       0xb0 ./lmic-master/src/lmic/lmic.o
+ .text.decodeFrame
+                0x00005314      0x57c ./lmic-master/src/lmic/lmic.o
+ .text.setupRx2
+                0x00005890       0x40 ./lmic-master/src/lmic/lmic.o
+ .text.schedRx2
+                0x000058d0       0x50 ./lmic-master/src/lmic/lmic.o
+ .text.setupRx1
+                0x00005920       0x44 ./lmic-master/src/lmic/lmic.o
+ .text.txDone   0x00005964       0x70 ./lmic-master/src/lmic/lmic.o
+ .text.onJoinFailed
+                0x000059d4       0x14 ./lmic-master/src/lmic/lmic.o
+ .text.processJoinAccept
+                0x000059e8      0x25c ./lmic-master/src/lmic/lmic.o
+ .text.processRx2Jacc
+                0x00005c44       0x28 ./lmic-master/src/lmic/lmic.o
+ .text.setupRx2Jacc
+                0x00005c6c       0x20 ./lmic-master/src/lmic/lmic.o
+ .text.processRx1Jacc
+                0x00005c8c       0x34 ./lmic-master/src/lmic/lmic.o
+ .text.setupRx1Jacc
+                0x00005cc0       0x18 ./lmic-master/src/lmic/lmic.o
+ .text.jreqDone
+                0x00005cd8       0x1c ./lmic-master/src/lmic/lmic.o
+ .text.processRx2DnDataDelay
+                0x00005cf4       0x14 ./lmic-master/src/lmic/lmic.o
+ .text.processRx2DnData
+                0x00005d08       0x50 ./lmic-master/src/lmic/lmic.o
+ .text.setupRx2DnData
+                0x00005d58       0x20 ./lmic-master/src/lmic/lmic.o
+ .text.processRx1DnData
+                0x00005d78       0x34 ./lmic-master/src/lmic/lmic.o
+ .text.setupRx1DnData
+                0x00005dac       0x18 ./lmic-master/src/lmic/lmic.o
+ .text.updataDone
+                0x00005dc4       0x1c ./lmic-master/src/lmic/lmic.o
+ .text.buildDataFrame
+                0x00005de0      0x330 ./lmic-master/src/lmic/lmic.o
+ .text.buildJoinRequest
+                0x00006110       0x6c ./lmic-master/src/lmic/lmic.o
+ .text.startJoining
+                0x0000617c       0x14 ./lmic-master/src/lmic/lmic.o
+ .text.LMIC_startJoining
+                0x00006190       0x94 ./lmic-master/src/lmic/lmic.o
+                0x00006190                LMIC_startJoining
+ .text.processDnData
+                0x00006224      0x1a0 ./lmic-master/src/lmic/lmic.o
+ .text.engineUpdate
+                0x000063c4      0x214 ./lmic-master/src/lmic/lmic.o
+ .text.LMIC_setDrTxpow
+                0x000065d8       0x28 ./lmic-master/src/lmic/lmic.o
+                0x000065d8                LMIC_setDrTxpow
+ .text.LMIC_reset
+                0x00006600       0x74 ./lmic-master/src/lmic/lmic.o
+                0x00006600                LMIC_reset
+ .text.LMIC_init
+                0x00006674       0x18 ./lmic-master/src/lmic/lmic.o
+                0x00006674                LMIC_init
+ .text.LMIC_setTxData
+                0x0000668c       0x38 ./lmic-master/src/lmic/lmic.o
+                0x0000668c                LMIC_setTxData
+ .text.LMIC_setTxData2
+                0x000066c4       0x64 ./lmic-master/src/lmic/lmic.o
+                0x000066c4                LMIC_setTxData2
+ .text.LMIC_setSession
+                0x00006728       0x84 ./lmic-master/src/lmic/lmic.o
+                0x00006728                LMIC_setSession
+ .text.LMIC_setLinkCheckMode
+                0x000067ac       0x34 ./lmic-master/src/lmic/lmic.o
+                0x000067ac                LMIC_setLinkCheckMode
+ .text.os_init  0x000067e0       0x20 ./lmic-master/src/lmic/oslmic.o
+                0x000067e0                os_init
+ .text.os_getTime
+                0x00006800       0x10 ./lmic-master/src/lmic/oslmic.o
+                0x00006800                os_getTime
+ .text.unlinkjob
+                0x00006810       0x40 ./lmic-master/src/lmic/oslmic.o
+ .text.os_clearCallback
+                0x00006850       0x3c ./lmic-master/src/lmic/oslmic.o
+                0x00006850                os_clearCallback
+ .text.os_setCallback
+                0x0000688c       0x48 ./lmic-master/src/lmic/oslmic.o
+                0x0000688c                os_setCallback
+ .text.os_setTimedCallback
+                0x000068d4       0x68 ./lmic-master/src/lmic/oslmic.o
+                0x000068d4                os_setTimedCallback
+ .text.writeReg
+                0x0000693c       0x38 ./lmic-master/src/lmic/radio.o
+ .text.readReg  0x00006974       0x38 ./lmic-master/src/lmic/radio.o
+ .text.writeBuf
+                0x000069ac       0x54 ./lmic-master/src/lmic/radio.o
+ .text.readBuf  0x00006a00       0x54 ./lmic-master/src/lmic/radio.o
+ .text.opmode   0x00006a54       0x30 ./lmic-master/src/lmic/radio.o
+ .text.opmodeLora
+                0x00006a84       0x24 ./lmic-master/src/lmic/radio.o
+ .text.opmodeFSK
+                0x00006aa8       0x24 ./lmic-master/src/lmic/radio.o
+ .text.configLoraModem
+                0x00006acc      0x150 ./lmic-master/src/lmic/radio.o
+ .text.configChannel
+                0x00006c1c       0x7c ./lmic-master/src/lmic/radio.o
+ .text.configPower
+                0x00006c98       0x60 ./lmic-master/src/lmic/radio.o
+ .text.txfsk    0x00006cf8       0xd8 ./lmic-master/src/lmic/radio.o
+ .text.txlora   0x00006dd0       0xb4 ./lmic-master/src/lmic/radio.o
+ .text.starttx  0x00006e84       0x38 ./lmic-master/src/lmic/radio.o
+ .text.rxlora   0x00006ebc       0xd8 ./lmic-master/src/lmic/radio.o
+ .text.rxfsk    0x00006f94       0xe0 ./lmic-master/src/lmic/radio.o
+ .text.startrx  0x00007074       0x4c ./lmic-master/src/lmic/radio.o
+ .text.radio_init
+                0x000070c0      0x16c ./lmic-master/src/lmic/radio.o
+                0x000070c0                radio_init
+ .text.radio_rand1
+                0x0000722c       0x4c ./lmic-master/src/lmic/radio.o
+                0x0000722c                radio_rand1
+ .text.radio_irq_handler
+                0x00007278      0x1ac ./lmic-master/src/lmic/radio.o
+                0x00007278                radio_irq_handler
+ .text.os_radio
+                0x00007424       0x54 ./lmic-master/src/lmic/radio.o
+                0x00007424                os_radio
+ .text.ADC_DataSingleGet
+                0x00007478       0x18 ./src/adc.o
+ .text.ADC_Start
+                0x00007490       0x1c ./src/adc.o
+ .text.init_ADC
+                0x000074ac       0xfc ./src/adc.o
+                0x000074ac                init_ADC
+ .text.AdcReadChannel
+                0x000075a8       0x2c ./src/adc.o
+                0x000075a8                AdcReadChannel
+ .text.NVIC_EnableIRQ
+                0x000075d4       0x30 ./src/config.o
+ .text.NVIC_ClearPendingIRQ
+                0x00007604       0x34 ./src/config.o
+ .text.BUS_RegBitWrite
+                0x00007638       0x2c ./src/config.o
+ .text.GPIO_IntConfig
+                0x00007664       0x38 ./src/config.o
+ .text.LEUART_IntClear
+                0x0000769c       0x1c ./src/config.o
+ .text.LEUART_IntEnable
+                0x000076b8       0x20 ./src/config.o
+ .text.CRYOTIMER_IntClear
+                0x000076d8       0x20 ./src/config.o
+ .text.CRYOTIMER_IntEnable
+                0x000076f8       0x28 ./src/config.o
+ .text.CRYOTIMER_Enable
+                0x00007720       0x20 ./src/config.o
+ .text.init_function
+                0x00007740       0x24 ./src/config.o
+                0x00007740                init_function
+ .text.init_EMU
+                0x00007764       0x54 ./src/config.o
+                0x00007764                init_EMU
+ .text.init_CMU
+                0x000077b8      0x124 ./src/config.o
+                0x000077b8                init_CMU
+ .text.init_LEUART0
+                0x000078dc       0xac ./src/config.o
+                0x000078dc                init_LEUART0
+ .text.init_CRYOTIMER
+                0x00007988       0x60 ./src/config.o
+                0x00007988                init_CRYOTIMER
+ .text.init_GPIO
+                0x000079e8       0x94 ./src/config.o
+                0x000079e8                init_GPIO
+ .text.NVIC_SetPriority
+                0x00007a7c       0x54 ./src/delay.o
+ .text.SysTick_Config
+                0x00007ad0       0x44 ./src/delay.o
+ .text.SysTick_Handler
+                0x00007b14       0x1c ./src/delay.o
+                0x00007b14                SysTick_Handler
+ .text.delayMs  0x00007b30       0x2c ./src/delay.o
+                0x00007b30                delayMs
+ .text.initDelay
+                0x00007b5c       0x2c ./src/delay.o
+                0x00007b5c                initDelay
+ .text.MMA8652_I2CInit
+                0x00007b88       0xb8 ./src/i2c-MMA8652.o
+                0x00007b88                MMA8652_I2CInit
+ .text.MMA8652_RegisterGet
+                0x00007c40       0x70 ./src/i2c-MMA8652.o
+                0x00007c40                MMA8652_RegisterGet
+ .text.MMA8652_RegisterSet
+                0x00007cb0       0x64 ./src/i2c-MMA8652.o
+                0x00007cb0                MMA8652_RegisterSet
+ .text.enableInt
+                0x00007d14       0x30 ./src/i2c-MMA8652.o
+                0x00007d14                enableInt
+ .text.enableFreeFallInt
+                0x00007d44       0x4c ./src/i2c-MMA8652.o
+                0x00007d44                enableFreeFallInt
+ .text.clearFlagFreeFallInt
+                0x00007d90        0xc ./src/i2c-MMA8652.o
+                0x00007d90                clearFlagFreeFallInt
+ .text.active   0x00007d9c       0x10 ./src/i2c-MMA8652.o
+                0x00007d9c                active
+ .text.standBy  0x00007dac       0x10 ./src/i2c-MMA8652.o
+                0x00007dac                standBy
+ .text.SYSTEM_GetProdRev
+                0x00007dbc       0x1c ./src/main.o
+ .text.BUS_RegMaskedSet
+                0x00007dd8       0x24 ./src/main.o
+ .text.BUS_RegMaskedClear
+                0x00007dfc       0x24 ./src/main.o
+ .text.GPIO_PinOutClear
+                0x00007e20       0x58 ./src/main.o
+ .text.GPIO_PinOutSet
+                0x00007e78       0x58 ./src/main.o
+ .text.CHIP_Init
+                0x00007ed0       0xa8 ./src/main.o
+ .text.CRYOTIMER_IntClear
+                0x00007f78       0x20 ./src/main.o
+ .text.send_string
+                0x00007f98       0x2c ./src/main.o
+                0x00007f98                send_string
+ .text.LEUART0_IRQHandler
+                0x00007fc4       0x80 ./src/main.o
+                0x00007fc4                LEUART0_IRQHandler
+ .text.gps_convert_lat_to_float
+                0x00008044       0xdc ./src/main.o
+ .text.gps_convert_lon_to_float
+                0x00008120       0xdc ./src/main.o
+ .text.GetMessageFeilds
+                0x000081fc       0x74 ./src/main.o
+ .text.NMEA_GPRMC_Decoder
+                0x00008270      0x248 ./src/main.o
+                0x00008270                NMEA_GPRMC_Decoder
+ .text.ftoa     0x000084b8       0x54 ./src/main.o
+                0x000084b8                ftoa
+ .text.os_getArtEui
+                0x0000850c       0x14 ./src/main.o
+                0x0000850c                os_getArtEui
+ .text.os_getDevEui
+                0x00008520       0x14 ./src/main.o
+                0x00008520                os_getDevEui
+ .text.os_getDevKey
+                0x00008534       0x14 ./src/main.o
+                0x00008534                os_getDevKey
+ .text.do_send  0x00008548       0x84 ./src/main.o
+                0x00008548                do_send
+ .text.onEvent  0x000085cc       0x60 ./src/main.o
+                0x000085cc                onEvent
+ .text.CRYOTIMER_IRQHandler
+                0x0000862c       0x10 ./src/main.o
+                0x0000862c                CRYOTIMER_IRQHandler
+ .text.main     0x0000863c      0x20c ./src/main.o
+                0x0000863c                main
+ .text          0x00008848      0x370 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_addsubdf3.o)
+                0x00008848                __aeabi_drsub
+                0x00008850                __aeabi_dsub
+                0x00008850                __subdf3
+                0x00008854                __adddf3
+                0x00008854                __aeabi_dadd
+                0x00008acc                __aeabi_ui2d
+                0x00008acc                __floatunsidf
+                0x00008aec                __floatsidf
+                0x00008aec                __aeabi_i2d
+                0x00008b10                __extendsfdf2
+                0x00008b10                __aeabi_f2d
+                0x00008b4c                __aeabi_ul2d
+                0x00008b4c                __floatundidf
+                0x00008b5c                __floatdidf
+                0x00008b5c                __aeabi_l2d
+ .text          0x00008bb8      0x424 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_muldivdf3.o)
+                0x00008bb8                __aeabi_dmul
+                0x00008bb8                __muldf3
+                0x00008e0c                __aeabi_ddiv
+                0x00008e0c                __divdf3
+ .text          0x00008fdc       0x40 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_fixunsdfsi.o)
+                0x00008fdc                __fixunsdfsi
+                0x00008fdc                __aeabi_d2uiz
+ .text          0x0000901c       0xa0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_truncdfsf2.o)
+                0x0000901c                __aeabi_d2f
+                0x0000901c                __truncdfsf2
+ .text          0x000090bc      0x21c /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_addsubsf3.o)
+                0x000090bc                __aeabi_frsub
+                0x000090c4                __subsf3
+                0x000090c4                __aeabi_fsub
+                0x000090c8                __aeabi_fadd
+                0x000090c8                __addsf3
+                0x00009228                __aeabi_ui2f
+                0x00009228                __floatunsisf
+                0x00009230                __aeabi_i2f
+                0x00009230                __floatsisf
+                0x0000924c                __floatundisf
+                0x0000924c                __aeabi_ul2f
+                0x0000925c                __floatdisf
+                0x0000925c                __aeabi_l2f
+ .text          0x000092d8      0x2a0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_muldivsf3.o)
+                0x000092d8                __mulsf3
+                0x000092d8                __aeabi_fmul
+                0x00009440                __divsf3
+                0x00009440                __aeabi_fdiv
+ .text          0x00009578       0x4c /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_fixsfsi.o)
+                0x00009578                __fixsfsi
+                0x00009578                __aeabi_f2iz
+ .text          0x000095c4       0x30 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_aeabi_uldivmod.o)
+                0x000095c4                __aeabi_uldivmod
+ .text          0x000095f4       0x60 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(bpabi.o)
+                0x000095f4                __gnu_ldivmod_helper
+                0x00009624                __gnu_uldivmod_helper
+ .text          0x00009654        0x4 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_dvmd_tls.o)
+                0x00009654                __aeabi_ldiv0
+                0x00009654                __aeabi_idiv0
+ .text          0x00009658      0x2ac /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_divdi3.o)
+                0x00009658                __divdi3
+ .text          0x00009904      0x270 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_udivdi3.o)
+                0x00009904                __udivdi3
+ .text.atof     0x00009b74        0x6 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-atof.o)
+                0x00009b74                atof
+ *fill*         0x00009b7a        0x2 
+ .text.exit     0x00009b7c       0x28 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-exit.o)
+                0x00009b7c                exit
+ .text.__libc_init_array
+                0x00009ba4       0x4c /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-init.o)
+                0x00009ba4                __libc_init_array
+ .text.memcpy   0x00009bf0       0x16 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memcpy.o)
+                0x00009bf0                memcpy
+ .text.memset   0x00009c06       0x10 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memset.o)
+                0x00009c06                memset
+ *fill*         0x00009c16        0x2 
+ .text.sprintf  0x00009c18       0x48 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sprintf.o)
+                0x00009c18                sprintf
+                0x00009c18                siprintf
+ .text          0x00009c60       0x14 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strcmp.o)
+                0x00009c60                strcmp
+ .text.strlen   0x00009c74       0x10 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strlen.o)
+                0x00009c74                strlen
+ .text.strncpy  0x00009c84       0x24 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strncpy.o)
+                0x00009c84                strncpy
+ .text.match    0x00009ca8       0x26 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strtod.o)
+ .text.sulp     0x00009cce       0x42 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strtod.o)
+ .text._strtod_r
+                0x00009d10      0xc3c /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strtod.o)
+                0x00009d10                _strtod_r
+ .text.strtod   0x0000a94c       0x14 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strtod.o)
+                0x0000a94c                strtod
+ .text.rshift   0x0000a960       0x6c /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-gdtoa-gethex.o)
+ .text.__hexdig_fun
+                0x0000a9cc       0x2a /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-gdtoa-gethex.o)
+                0x0000a9cc                __hexdig_fun
+ .text.__gethex
+                0x0000a9f6      0x44a /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-gdtoa-gethex.o)
+                0x0000a9f6                __gethex
+ .text.L_shift  0x0000ae40       0x24 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-gdtoa-hexnan.o)
+ .text.__hexnan
+                0x0000ae64      0x114 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-gdtoa-hexnan.o)
+                0x0000ae64                __hexnan
+ .text._localeconv_r
+                0x0000af78        0x8 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-locale.o)
+                0x0000af78                _localeconv_r
+ .text._Balloc  0x0000af80       0x6a /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+                0x0000af80                _Balloc
+ .text._Bfree   0x0000afea       0x2e /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+                0x0000afea                _Bfree
+ .text.__multadd
+                0x0000b018       0x7c /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+                0x0000b018                __multadd
+ .text.__s2b    0x0000b094       0x80 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+                0x0000b094                __s2b
+ .text.__hi0bits
+                0x0000b114       0x40 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+                0x0000b114                __hi0bits
+ .text.__lo0bits
+                0x0000b154       0x5a /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+                0x0000b154                __lo0bits
+ .text.__i2b    0x0000b1ae       0x12 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+                0x0000b1ae                __i2b
+ .text.__multiply
+                0x0000b1c0      0x120 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+                0x0000b1c0                __multiply
+ .text.__pow5mult
+                0x0000b2e0       0x9c /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+                0x0000b2e0                __pow5mult
+ .text.__lshift
+                0x0000b37c       0xa6 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+                0x0000b37c                __lshift
+ .text.__mcmp   0x0000b422       0x38 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+                0x0000b422                __mcmp
+ .text.__mdiff  0x0000b45a       0xbe /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+                0x0000b45a                __mdiff
+ .text.__ulp    0x0000b518       0x48 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+                0x0000b518                __ulp
+ .text.__b2d    0x0000b560       0x9e /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+                0x0000b560                __b2d
+ .text.__d2b    0x0000b5fe       0xa4 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+                0x0000b5fe                __d2b
+ .text.__ratio  0x0000b6a2       0x50 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+                0x0000b6a2                __ratio
+ .text.__copybits
+                0x0000b6f2       0x34 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+                0x0000b6f2                __copybits
+ .text.__any_on
+                0x0000b726       0x44 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+                0x0000b726                __any_on
+ .text._calloc_r
+                0x0000b76a       0x1c /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-callocr.o)
+                0x0000b76a                _calloc_r
+ *fill*         0x0000b786        0x2 
+ .text._malloc_r
+                0x0000b788       0xac /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-mallocr.o)
+                0x0000b788                _malloc_r
+ .text.__ssputs_r
+                0x0000b834       0xb2 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+                0x0000b834                __ssputs_r
+ *fill*         0x0000b8e6        0x2 
+ .text._svfprintf_r
+                0x0000b8e8      0x1e4 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+                0x0000b8e8                _svfprintf_r
+                0x0000b8e8                _svfiprintf_r
+ .text._printf_common
+                0x0000bacc       0xea /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000bacc                _printf_common
+ *fill*         0x0000bbb6        0x2 
+ .text._printf_i
+                0x0000bbb8      0x240 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000bbb8                _printf_i
+ .text._sbrk_r  0x0000bdf8       0x20 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sbrkr.o)
+                0x0000bdf8                _sbrk_r
+ .text.strncmp  0x0000be18       0x32 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strncmp.o)
+                0x0000be18                strncmp
+ *fill*         0x0000be4a        0x2 
+ .text.malloc   0x0000be4c       0x10 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-malloc.o)
+                0x0000be4c                malloc
+ .text.memchr   0x0000be5c       0x1c /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memchr.o)
+                0x0000be5c                memchr
+ .text.memmove  0x0000be78       0x36 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memmove.o)
+                0x0000be78                memmove
+ *fill*         0x0000beae        0x2 
+ .text._free_r  0x0000beb0       0x88 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-freer.o)
+                0x0000beb0                _free_r
+ .text._realloc_r
+                0x0000bf38       0x4c /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-reallocr.o)
+                0x0000bf38                _realloc_r
+ .text._malloc_usable_size_r
+                0x0000bf84       0x14 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-msizer.o)
+                0x0000bf84                _malloc_usable_size_r
+ .text._sbrk    0x0000bf98       0x1c /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libnosys.a(sbrk.o)
+                0x0000bf98                _sbrk
+ .text._exit    0x0000bfb4        0x4 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libnosys.a(_exit.o)
+                0x0000bfb4                _exit
+ .text          0x0000bfb8      0x110 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_cmpdf2.o)
+                0x0000bfb8                __gtdf2
+                0x0000bfb8                __gedf2
+                0x0000bfc0                __ltdf2
+                0x0000bfc0                __ledf2
+                0x0000bfc8                __cmpdf2
+                0x0000bfc8                __eqdf2
+                0x0000bfc8                __nedf2
+                0x0000c044                __aeabi_cdrcmple
+                0x0000c054                __aeabi_cdcmple
+                0x0000c054                __aeabi_cdcmpeq
+                0x0000c064                __aeabi_dcmpeq
+                0x0000c078                __aeabi_dcmplt
+                0x0000c08c                __aeabi_dcmple
+                0x0000c0a0                __aeabi_dcmpge
+                0x0000c0b4                __aeabi_dcmpgt
+ .text          0x0000c0c8       0x50 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_fixdfsi.o)
+                0x0000c0c8                __fixdfsi
+                0x0000c0c8                __aeabi_d2iz
+ *(.init)
+ .init          0x0000c118        0x4 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crti.o
+                0x0000c118                _init
+ .init          0x0000c11c        0x8 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtn.o
+ *(.fini)
+ .fini          0x0000c124        0x4 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crti.o
+                0x0000c124                _fini
+ .fini          0x0000c128        0x8 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.i2cNSum
+                0x0000c130        0x4 ./emlib/em_i2c.o
+ .rodata        0x0000c134       0x1f ./lmic-master/src/hal/hal.o
+ *fill*         0x0000c153        0x1 
+ .rodata.AES_RCON
+                0x0000c154       0x28 ./lmic-master/src/lmic/aes.o
+ .rodata.AES_S  0x0000c17c      0x100 ./lmic-master/src/lmic/aes.o
+ .rodata.AES_E1
+                0x0000c27c      0x400 ./lmic-master/src/lmic/aes.o
+ .rodata.AES_E2
+                0x0000c67c      0x400 ./lmic-master/src/lmic/aes.o
+ .rodata.AES_E3
+                0x0000ca7c      0x400 ./lmic-master/src/lmic/aes.o
+ .rodata.AES_E4
+                0x0000ce7c      0x400 ./lmic-master/src/lmic/aes.o
+ .rodata._DR2RPS_CRC
+                0x0000d27c        0xa ./lmic-master/src/lmic/lmic.o
+                0x0000d27c                _DR2RPS_CRC
+ *fill*         0x0000d286        0x2 
+ .rodata.TXPOWLEVELS
+                0x0000d288       0x10 ./lmic-master/src/lmic/lmic.o
+ .rodata.SENSITIVITY
+                0x0000d298       0x15 ./lmic-master/src/lmic/lmic.o
+ *fill*         0x0000d2ad        0x3 
+ .rodata.DRADJUST
+                0x0000d2b0        0xa ./lmic-master/src/lmic/lmic.o
+ *fill*         0x0000d2ba        0x2 
+ .rodata.DR2HSYM_osticks
+                0x0000d2bc       0x20 ./lmic-master/src/lmic/lmic.o
+ .rodata.iniChannelFreq
+                0x0000d2dc       0x30 ./lmic-master/src/lmic/lmic.o
+ .rodata.rxlorairqmask
+                0x0000d30c        0x3 ./lmic-master/src/lmic/radio.o
+ *fill*         0x0000d30f        0x1 
+ .rodata.LORA_RXDONE_FIXUP
+                0x0000d310        0xe ./lmic-master/src/lmic/radio.o
+ *fill*         0x0000d31e        0x2 
+ .rodata        0x0000d320       0x2e ./src/config.o
+ *fill*         0x0000d34e        0x2 
+ .rodata        0x0000d350       0x10 ./src/i2c-MMA8652.o
+ .rodata.nwkKey
+                0x0000d360       0x10 ./src/main.o
+ .rodata.artKey
+                0x0000d370       0x10 ./src/main.o
+ .rodata        0x0000d380       0x74 ./src/main.o
+ .rodata.str1.1
+                0x0000d3f4        0x2 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-impure.o)
+ *fill*         0x0000d3f6        0x2 
+ .rodata._global_impure_ptr
+                0x0000d3f8        0x4 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-impure.o)
+                0x0000d3f8                _global_impure_ptr
+ .rodata.str1.1
+                0x0000d3fc        0xc /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strtod.o)
+ .rodata.fpinan.5315
+                0x0000d408       0x14 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strtod.o)
+ *fill*         0x0000d41c        0x4 
+ .rodata.tinytens
+                0x0000d420       0x28 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strtod.o)
+ .rodata.fpi.5279
+                0x0000d448       0x14 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strtod.o)
+ .rodata.str1.1
+                0x0000d45c        0x8 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-locale.o)
+                                  0xb (size before relaxing)
+ *fill*         0x0000d464        0x4 
+ .rodata.__mprec_tens
+                0x0000d468       0xc8 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+                0x0000d468                __mprec_tens
+ .rodata.__mprec_bigtens
+                0x0000d530       0x28 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+                0x0000d530                __mprec_bigtens
+ .rodata.p05.5314
+                0x0000d558        0xc /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+ .rodata.str1.1
+                0x0000d564       0x11 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .rodata.str1.1
+                0x0000d575       0x22 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ *(.eh_frame*)
+ *fill*         0x0000d597        0x1 
+ .eh_frame      0x0000d598        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtbegin.o
+ .eh_frame      0x0000d598       0x28 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strcmp.o)
+ .eh_frame      0x0000d5c0        0x4 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtend.o
+
+.glue_7         0x0000d5c4        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x0000d5c4        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x0000d5c4        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x0000d5c4        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x0000d5c4        0x0
+ .iplt          0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000d5c4                __exidx_start = .
+
+.ARM.exidx      0x0000d5c4        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0000d5c4        0x8 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.exidx     0x0000d5cc        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_divdi3.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx     0x0000d5cc        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_udivdi3.o)
+                                  0x8 (size before relaxing)
+                0x0000d5cc                __exidx_end = .
+                0x0000d5cc                __etext = .
+
+.rel.dyn        0x0000d5cc        0x0
+ .rel.iplt      0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtbegin.o
+
+.data           0x20000000       0xcc load address 0x0000d5cc
+                0x20000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.SystemHFXOClock
+                0x20000000        0x4 ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+ .data.SystemLFXOClock
+                0x20000004        0x4 ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+ .data.SystemCoreClock
+                0x20000008        0x4 ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+                0x20000008                SystemCoreClock
+ .data.SystemHfrcoFreq
+                0x2000000c        0x4 ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+                0x2000000c                SystemHfrcoFreq
+ .data.auxHfrcoFreq
+                0x20000010        0x4 ./emlib/em_cmu.o
+ .data.mydata   0x20000014       0x10 ./src/main.o
+                0x20000014                mydata
+ .data.impure_data
+                0x20000024       0x60 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x20000084        0x4 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-impure.o)
+                0x20000084                _impure_ptr
+ .data.lconv    0x20000088       0x38 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-locale.o)
+                0x200000c0                . = ALIGN (0x4)
+ *(.ram)
+                0x200000c0                . = ALIGN (0x4)
+                0x200000c0                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x200000c0                PROVIDE (__preinit_array_end, .)
+                0x200000c0                . = ALIGN (0x4)
+                0x200000c0                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x200000c0        0x4 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtbegin.o
+                0x200000c4                PROVIDE (__init_array_end, .)
+                0x200000c4                . = ALIGN (0x4)
+                0x200000c4                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x200000c4        0x4 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtbegin.o
+                0x200000c8                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+ .jcr           0x200000c8        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtbegin.o
+ .jcr           0x200000c8        0x4 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtend.o
+                0x200000cc                . = ALIGN (0x4)
+                0x200000cc                __data_end__ = .
+
+.igot.plt       0x200000cc        0x0 load address 0x0000d698
+ .igot.plt      0x00000000        0x0 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtbegin.o
+
+.bss            0x200000cc      0x404 load address 0x0000d698
+                0x200000cc                . = ALIGN (0x4)
+                0x200000cc                __bss_start__ = .
+ *(.bss*)
+ .bss           0x200000cc       0x1c /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtbegin.o
+ .bss.errataFixDcdcHsState
+                0x200000e8        0x1 ./emlib/em_emu.o
+ *fill*         0x200000e9        0x1 
+ .bss.dcdcMaxCurrent_mA
+                0x200000ea        0x2 ./emlib/em_emu.o
+ .bss.dcdcReverseCurrentControl
+                0x200000ec        0x2 ./emlib/em_emu.o
+ *fill*         0x200000ee        0x2 
+ .bss.cmuStatus.5508
+                0x200000f0        0x4 ./emlib/em_emu.o
+ .bss.hfClock.5509
+                0x200000f4        0x1 ./emlib/em_emu.o
+ *fill*         0x200000f5        0x3 
+ .bss.emuDcdcMiscCtrlReg.5516
+                0x200000f8        0x4 ./emlib/em_emu.o
+ .bss.i2cTransfer
+                0x200000fc        0xc ./emlib/em_i2c.o
+ .bss.INT_LockCnt
+                0x20000108        0x4 ./emlib/em_int.o
+                0x20000108                INT_LockCnt
+ .bss.HAL       0x2000010c        0x4 ./lmic-master/src/hal/hal.o
+ .bss.Motion_detect
+                0x20000110        0x1 ./lmic-master/src/hal/hal.o
+                0x20000110                Motion_detect
+ .bss.rtcInitialized
+                0x20000111        0x1 ./lmic-master/src/hal/hal.o
+ *fill*         0x20000112        0x2 
+ .bss.rtcFreq   0x20000114        0x4 ./lmic-master/src/hal/hal.o
+ .bss.OS        0x20000118        0x8 ./lmic-master/src/lmic/oslmic.o
+ .bss.randbuf   0x20000120       0x10 ./lmic-master/src/lmic/radio.o
+ .bss.AdcInitialized
+                0x20000130        0x1 ./src/adc.o
+ *fill*         0x20000131        0x1 
+ .bss.gpsTimeOut
+                0x20000132        0x2 ./src/main.o
+                0x20000132                gpsTimeOut
+ .bss.Lat       0x20000134        0x4 ./src/main.o
+                0x20000134                Lat
+ .bss.Lng       0x20000138        0x4 ./src/main.o
+                0x20000138                Lng
+ .bss.counter   0x2000013c        0x4 ./src/main.o
+                0x2000013c                counter
+ .bss.__malloc_sbrk_start
+                0x20000140        0x4 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-mallocr.o)
+                0x20000140                __malloc_sbrk_start
+ .bss.__malloc_free_list
+                0x20000144        0x4 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-mallocr.o)
+                0x20000144                __malloc_free_list
+ .bss.heap_end.4079
+                0x20000148        0x4 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libnosys.a(sbrk.o)
+ *(COMMON)
+ COMMON         0x2000014c       0xc0 ./lmic-master/src/lmic/aes.o
+                0x2000014c                AESKEY
+                0x200001fc                AESAUX
+ COMMON         0x2000020c      0x194 ./lmic-master/src/lmic/lmic.o
+                0x2000020c                LMIC
+ COMMON         0x200003a0        0x4 ./src/delay.o
+                0x200003a0                msTicks
+ COMMON         0x200003a4      0x128 ./src/main.o
+                0x200003a4                float_str
+                0x200003b0                sendjob
+                0x200003bc                output
+                0x200003ee                interruptStatus
+                0x200003ef                month
+                0x200003f0                SpeedGPS
+                0x200003f4                dataToString
+                0x20000426                State_gps
+                0x20000427                minute
+                0x20000428                floatToString
+                0x20000438                adcRead
+                0x2000043a                hour
+                0x2000043c                time_update
+                0x20000440                i2cread
+                0x20000441                year
+                0x20000442                sec
+                0x20000443                date
+                0x20000444                dataGpsInput
+                0x200004c4                OrGPS
+                0x200004c8                inputVol
+ COMMON         0x200004cc        0x4 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-reent.o)
+                0x200004cc                errno
+                0x200004d0                . = ALIGN (0x4)
+                0x200004d0                __bss_end__ = .
+
+.heap           0x200004d0      0xc00
+                0x200004d0                __HeapBase = .
+                0x200004d0                __end__ = .
+                0x200004d0                end = __end__
+                0x200004d0                _end = __end__
+ *(.heap*)
+ .heap          0x200004d0      0xc00 ./CMSIS/EFM32JG1B/startup_efm32jg1b.o
+                0x200010d0                __HeapLimit = .
+
+.stack_dummy    0x200004d0      0x400
+ *(.stack*)
+ .stack         0x200004d0      0x400 ./CMSIS/EFM32JG1B/startup_efm32jg1b.o
+                0x20008000                __StackTop = (ORIGIN (RAM) + 0x8000)
+                0x20007c00                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x20008000                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+                0x00000001                ASSERT ((0x20000 >= (__etext + SIZEOF (.data))), FLASH memory overflowed !)
+OUTPUT(SX1276_EFM32JG1B100.axf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x29
+ .ARM.attributes
+                0x00000000       0x1d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x1b /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.attributes
+                0x00000065       0x1b ./CMSIS/EFM32JG1B/startup_efm32jg1b.o
+ .ARM.attributes
+                0x00000080       0x33 ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+ .ARM.attributes
+                0x000000b3       0x33 ./emlib/em_adc.o
+ .ARM.attributes
+                0x000000e6       0x33 ./emlib/em_cmu.o
+ .ARM.attributes
+                0x00000119       0x33 ./emlib/em_cryotimer.o
+ .ARM.attributes
+                0x0000014c       0x33 ./emlib/em_emu.o
+ .ARM.attributes
+                0x0000017f       0x33 ./emlib/em_gpio.o
+ .ARM.attributes
+                0x000001b2       0x33 ./emlib/em_i2c.o
+ .ARM.attributes
+                0x000001e5       0x33 ./emlib/em_int.o
+ .ARM.attributes
+                0x00000218       0x33 ./emlib/em_leuart.o
+ .ARM.attributes
+                0x0000024b       0x33 ./emlib/em_rtcc.o
+ .ARM.attributes
+                0x0000027e       0x33 ./emlib/em_system.o
+ .ARM.attributes
+                0x000002b1       0x33 ./emlib/em_usart.o
+ .ARM.attributes
+                0x000002e4       0x33 ./lmic-master/src/hal/hal.o
+ .ARM.attributes
+                0x00000317       0x33 ./lmic-master/src/lmic/aes.o
+ .ARM.attributes
+                0x0000034a       0x33 ./lmic-master/src/lmic/lmic.o
+ .ARM.attributes
+                0x0000037d       0x33 ./lmic-master/src/lmic/oslmic.o
+ .ARM.attributes
+                0x000003b0       0x33 ./lmic-master/src/lmic/radio.o
+ .ARM.attributes
+                0x000003e3       0x33 ./src/adc.o
+ .ARM.attributes
+                0x00000416       0x33 ./src/config.o
+ .ARM.attributes
+                0x00000449       0x33 ./src/delay.o
+ .ARM.attributes
+                0x0000047c       0x33 ./src/i2c-MMA8652.o
+ .ARM.attributes
+                0x000004af       0x33 ./src/main.o
+ .ARM.attributes
+                0x000004e2       0x1d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x000004ff       0x1d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x0000051c       0x1d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x00000539       0x1d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x00000556       0x1d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x00000573       0x1d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x00000590       0x1d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_fixsfsi.o)
+ .ARM.attributes
+                0x000005ad       0x1d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x000005ca       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x000005f7       0x1d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000614       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x00000641       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x0000066e       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-atof.o)
+ .ARM.attributes
+                0x0000069b       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x000006c8       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000006f5       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000722       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000074f       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000077c       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sprintf.o)
+ .ARM.attributes
+                0x000007a9       0x1b /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x000007c4       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x000007f1       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strncpy.o)
+ .ARM.attributes
+                0x0000081e       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strtod.o)
+ .ARM.attributes
+                0x0000084b       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-gdtoa-gethex.o)
+ .ARM.attributes
+                0x00000878       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-gdtoa-hexnan.o)
+ .ARM.attributes
+                0x000008a5       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-locale.o)
+ .ARM.attributes
+                0x000008d2       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x000008ff       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-callocr.o)
+ .ARM.attributes
+                0x0000092c       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x00000959       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .ARM.attributes
+                0x00000986       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x000009b3       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x000009e0       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strncmp.o)
+ .ARM.attributes
+                0x00000a0d       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x00000a3a       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x00000a67       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000a94       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x00000ac1       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x00000aee       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000b1b       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-msizer.o)
+ .ARM.attributes
+                0x00000b48       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x00000b75       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000ba2       0x1d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000bbf       0x1d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000bdc       0x2d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtend.o
+ .ARM.attributes
+                0x00000c09       0x1d /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/crtn.o
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./emlib/em_adc.o
+ .comment       0x00000000       0x71 ./emlib/em_cmu.o
+ .comment       0x00000000       0x71 ./emlib/em_cryotimer.o
+ .comment       0x00000000       0x71 ./emlib/em_emu.o
+ .comment       0x00000000       0x71 ./emlib/em_gpio.o
+ .comment       0x00000000       0x71 ./emlib/em_i2c.o
+ .comment       0x00000000       0x71 ./emlib/em_int.o
+ .comment       0x00000000       0x71 ./emlib/em_leuart.o
+ .comment       0x00000000       0x71 ./emlib/em_rtcc.o
+ .comment       0x00000000       0x71 ./emlib/em_system.o
+ .comment       0x00000000       0x71 ./emlib/em_usart.o
+ .comment       0x00000000       0x71 ./lmic-master/src/hal/hal.o
+ .comment       0x00000000       0x71 ./lmic-master/src/lmic/aes.o
+ .comment       0x00000000       0x71 ./lmic-master/src/lmic/lmic.o
+ .comment       0x00000000       0x71 ./lmic-master/src/lmic/oslmic.o
+ .comment       0x00000000       0x71 ./lmic-master/src/lmic/radio.o
+ .comment       0x00000000       0x71 ./src/adc.o
+ .comment       0x00000000       0x71 ./src/config.o
+ .comment       0x00000000       0x71 ./src/delay.o
+ .comment       0x00000000       0x71 ./src/i2c-MMA8652.o
+ .comment       0x00000000       0x71 ./src/main.o
+
+.debug_line     0x00000000     0x710d
+ .debug_line    0x00000000       0xe0 ./CMSIS/EFM32JG1B/startup_efm32jg1b.o
+ .debug_line    0x000000e0      0x37f ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+ .debug_line    0x0000045f      0x542 ./emlib/em_adc.o
+ .debug_line    0x000009a1      0xb51 ./emlib/em_cmu.o
+ .debug_line    0x000014f2      0x30a ./emlib/em_cryotimer.o
+ .debug_line    0x000017fc      0xbe9 ./emlib/em_emu.o
+ .debug_line    0x000023e5      0x501 ./emlib/em_gpio.o
+ .debug_line    0x000028e6      0x49a ./emlib/em_i2c.o
+ .debug_line    0x00002d80      0x1a9 ./emlib/em_int.o
+ .debug_line    0x00002f29      0x42f ./emlib/em_leuart.o
+ .debug_line    0x00003358      0x3bf ./emlib/em_rtcc.o
+ .debug_line    0x00003717      0x34d ./emlib/em_system.o
+ .debug_line    0x00003a64      0x5bf ./emlib/em_usart.o
+ .debug_line    0x00004023      0x7a8 ./lmic-master/src/hal/hal.o
+ .debug_line    0x000047cb      0x1d6 ./lmic-master/src/lmic/aes.o
+ .debug_line    0x000049a1      0xcbe ./lmic-master/src/lmic/lmic.o
+ .debug_line    0x0000565f      0x14e ./lmic-master/src/lmic/oslmic.o
+ .debug_line    0x000057ad      0x385 ./lmic-master/src/lmic/radio.o
+ .debug_line    0x00005b32      0x30e ./src/adc.o
+ .debug_line    0x00005e40      0x4b9 ./src/config.o
+ .debug_line    0x000062f9      0x321 ./src/delay.o
+ .debug_line    0x0000661a      0x468 ./src/i2c-MMA8652.o
+ .debug_line    0x00006a82      0x68b ./src/main.o
+
+.debug_info     0x00000000    0x13bc2
+ .debug_info    0x00000000      0x11e ./CMSIS/EFM32JG1B/startup_efm32jg1b.o
+ .debug_info    0x0000011e      0x6c2 ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+ .debug_info    0x000007e0     0x1a36 ./emlib/em_adc.o
+ .debug_info    0x00002216     0x1b90 ./emlib/em_cmu.o
+ .debug_info    0x00003da6      0x3ac ./emlib/em_cryotimer.o
+ .debug_info    0x00004152     0x1f1d ./emlib/em_emu.o
+ .debug_info    0x0000606f      0xa05 ./emlib/em_gpio.o
+ .debug_info    0x00006a74      0x8d7 ./emlib/em_i2c.o
+ .debug_info    0x0000734b       0xbc ./emlib/em_int.o
+ .debug_info    0x00007407      0x809 ./emlib/em_leuart.o
+ .debug_info    0x00007c10      0x6b8 ./emlib/em_rtcc.o
+ .debug_info    0x000082c8      0x272 ./emlib/em_system.o
+ .debug_info    0x0000853a      0xf55 ./emlib/em_usart.o
+ .debug_info    0x0000948f     0x189e ./lmic-master/src/hal/hal.o
+ .debug_info    0x0000ad2d      0x2c0 ./lmic-master/src/lmic/aes.o
+ .debug_info    0x0000afed     0x2668 ./lmic-master/src/lmic/lmic.o
+ .debug_info    0x0000d655      0x4e2 ./lmic-master/src/lmic/oslmic.o
+ .debug_info    0x0000db37      0xddc ./lmic-master/src/lmic/radio.o
+ .debug_info    0x0000e913     0x1024 ./src/adc.o
+ .debug_info    0x0000f937     0x135f ./src/config.o
+ .debug_info    0x00010c96      0x6f9 ./src/delay.o
+ .debug_info    0x0001138f      0x7e6 ./src/i2c-MMA8652.o
+ .debug_info    0x00011b75     0x204d ./src/main.o
+
+.debug_abbrev   0x00000000     0x2b2d
+ .debug_abbrev  0x00000000       0x14 ./CMSIS/EFM32JG1B/startup_efm32jg1b.o
+ .debug_abbrev  0x00000014      0x16f ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+ .debug_abbrev  0x00000183      0x223 ./emlib/em_adc.o
+ .debug_abbrev  0x000003a6      0x2de ./emlib/em_cmu.o
+ .debug_abbrev  0x00000684      0x128 ./emlib/em_cryotimer.o
+ .debug_abbrev  0x000007ac      0x319 ./emlib/em_emu.o
+ .debug_abbrev  0x00000ac5      0x1da ./emlib/em_gpio.o
+ .debug_abbrev  0x00000c9f      0x259 ./emlib/em_i2c.o
+ .debug_abbrev  0x00000ef8       0x5c ./emlib/em_int.o
+ .debug_abbrev  0x00000f54      0x1e2 ./emlib/em_leuart.o
+ .debug_abbrev  0x00001136      0x177 ./emlib/em_rtcc.o
+ .debug_abbrev  0x000012ad      0x107 ./emlib/em_system.o
+ .debug_abbrev  0x000013b4      0x1d9 ./emlib/em_usart.o
+ .debug_abbrev  0x0000158d      0x36c ./lmic-master/src/hal/hal.o
+ .debug_abbrev  0x000018f9       0xf0 ./lmic-master/src/lmic/aes.o
+ .debug_abbrev  0x000019e9      0x368 ./lmic-master/src/lmic/lmic.o
+ .debug_abbrev  0x00001d51      0x1aa ./lmic-master/src/lmic/oslmic.o
+ .debug_abbrev  0x00001efb      0x221 ./lmic-master/src/lmic/radio.o
+ .debug_abbrev  0x0000211c      0x182 ./src/adc.o
+ .debug_abbrev  0x0000229e      0x206 ./src/config.o
+ .debug_abbrev  0x000024a4      0x195 ./src/delay.o
+ .debug_abbrev  0x00002639      0x19b ./src/i2c-MMA8652.o
+ .debug_abbrev  0x000027d4      0x359 ./src/main.o
+
+.debug_aranges  0x00000000      0xf20
+ .debug_aranges
+                0x00000000       0x20 ./CMSIS/EFM32JG1B/startup_efm32jg1b.o
+ .debug_aranges
+                0x00000020       0x68 ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+ .debug_aranges
+                0x00000088       0x98 ./emlib/em_adc.o
+ .debug_aranges
+                0x00000120      0x1a8 ./emlib/em_cmu.o
+ .debug_aranges
+                0x000002c8       0x30 ./emlib/em_cryotimer.o
+ .debug_aranges
+                0x000002f8      0x178 ./emlib/em_emu.o
+ .debug_aranges
+                0x00000470       0x88 ./emlib/em_gpio.o
+ .debug_aranges
+                0x000004f8       0x70 ./emlib/em_i2c.o
+ .debug_aranges
+                0x00000568       0x18 ./emlib/em_int.o
+ .debug_aranges
+                0x00000580       0x88 ./emlib/em_leuart.o
+ .debug_aranges
+                0x00000608       0x50 ./emlib/em_rtcc.o
+ .debug_aranges
+                0x00000658       0x28 ./emlib/em_system.o
+ .debug_aranges
+                0x00000680       0xb8 ./emlib/em_usart.o
+ .debug_aranges
+                0x00000738      0x138 ./lmic-master/src/hal/hal.o
+ .debug_aranges
+                0x00000870       0x28 ./lmic-master/src/lmic/aes.o
+ .debug_aranges
+                0x00000898      0x308 ./lmic-master/src/lmic/lmic.o
+ .debug_aranges
+                0x00000ba0       0x58 ./lmic-master/src/lmic/oslmic.o
+ .debug_aranges
+                0x00000bf8       0xc0 ./lmic-master/src/lmic/radio.o
+ .debug_aranges
+                0x00000cb8       0x38 ./src/adc.o
+ .debug_aranges
+                0x00000cf0       0x90 ./src/config.o
+ .debug_aranges
+                0x00000d80       0x40 ./src/delay.o
+ .debug_aranges
+                0x00000dc0       0xa0 ./src/i2c-MMA8652.o
+ .debug_aranges
+                0x00000e60       0xc0 ./src/main.o
+
+.debug_loc      0x00000000     0x8078
+ .debug_loc     0x00000000      0x2e4 ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+ .debug_loc     0x000002e4      0x560 ./emlib/em_adc.o
+ .debug_loc     0x00000844     0x1000 ./emlib/em_cmu.o
+ .debug_loc     0x00001844       0xfc ./emlib/em_cryotimer.o
+ .debug_loc     0x00001940      0xd56 ./emlib/em_emu.o
+ .debug_loc     0x00002696      0x4b4 ./emlib/em_gpio.o
+ .debug_loc     0x00002b4a      0x3ac ./emlib/em_i2c.o
+ .debug_loc     0x00002ef6      0x49c ./emlib/em_leuart.o
+ .debug_loc     0x00003392      0x23c ./emlib/em_rtcc.o
+ .debug_loc     0x000035ce       0xb8 ./emlib/em_system.o
+ .debug_loc     0x00003686      0x6d2 ./emlib/em_usart.o
+ .debug_loc     0x00003d58      0xabc ./lmic-master/src/hal/hal.o
+ .debug_loc     0x00004814       0xac ./lmic-master/src/lmic/aes.o
+ .debug_loc     0x000048c0     0x1d4a ./lmic-master/src/lmic/lmic.o
+ .debug_loc     0x0000660a      0x220 ./lmic-master/src/lmic/oslmic.o
+ .debug_loc     0x0000682a      0x624 ./lmic-master/src/lmic/radio.o
+ .debug_loc     0x00006e4e      0x134 ./src/adc.o
+ .debug_loc     0x00006f82      0x4d4 ./src/config.o
+ .debug_loc     0x00007456      0x178 ./src/delay.o
+ .debug_loc     0x000075ce      0x3e8 ./src/i2c-MMA8652.o
+ .debug_loc     0x000079b6      0x6c2 ./src/main.o
+
+.debug_ranges   0x00000000      0xd98
+ .debug_ranges  0x00000000       0x58 ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+ .debug_ranges  0x00000058       0x88 ./emlib/em_adc.o
+ .debug_ranges  0x000000e0      0x198 ./emlib/em_cmu.o
+ .debug_ranges  0x00000278       0x20 ./emlib/em_cryotimer.o
+ .debug_ranges  0x00000298      0x168 ./emlib/em_emu.o
+ .debug_ranges  0x00000400       0x78 ./emlib/em_gpio.o
+ .debug_ranges  0x00000478       0x60 ./emlib/em_i2c.o
+ .debug_ranges  0x000004d8       0x78 ./emlib/em_leuart.o
+ .debug_ranges  0x00000550       0x40 ./emlib/em_rtcc.o
+ .debug_ranges  0x00000590       0x18 ./emlib/em_system.o
+ .debug_ranges  0x000005a8       0xa8 ./emlib/em_usart.o
+ .debug_ranges  0x00000650      0x128 ./lmic-master/src/hal/hal.o
+ .debug_ranges  0x00000778       0x18 ./lmic-master/src/lmic/aes.o
+ .debug_ranges  0x00000790      0x2f8 ./lmic-master/src/lmic/lmic.o
+ .debug_ranges  0x00000a88       0x48 ./lmic-master/src/lmic/oslmic.o
+ .debug_ranges  0x00000ad0       0xb0 ./lmic-master/src/lmic/radio.o
+ .debug_ranges  0x00000b80       0x28 ./src/adc.o
+ .debug_ranges  0x00000ba8       0x80 ./src/config.o
+ .debug_ranges  0x00000c28       0x30 ./src/delay.o
+ .debug_ranges  0x00000c58       0x90 ./src/i2c-MMA8652.o
+ .debug_ranges  0x00000ce8       0xb0 ./src/main.o
+
+.debug_str      0x00000000     0x86d8
+ .debug_str     0x00000000      0x569 ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+                                0x5d3 (size before relaxing)
+ .debug_str     0x00000569     0x27ae ./emlib/em_adc.o
+                               0x2a50 (size before relaxing)
+ .debug_str     0x00002d17      0xaef ./emlib/em_cmu.o
+                               0x13ce (size before relaxing)
+ .debug_str     0x00003806      0x42d ./emlib/em_cryotimer.o
+                                0x65b (size before relaxing)
+ .debug_str     0x00003c33      0xdca ./emlib/em_emu.o
+                               0x1797 (size before relaxing)
+ .debug_str     0x000049fd      0x428 ./emlib/em_gpio.o
+                                0x827 (size before relaxing)
+ .debug_str     0x00004e25      0x358 ./emlib/em_i2c.o
+                                0x7df (size before relaxing)
+ .debug_str     0x0000517d       0x1e ./emlib/em_int.o
+                                0x210 (size before relaxing)
+ .debug_str     0x0000519b      0x29d ./emlib/em_leuart.o
+                                0x721 (size before relaxing)
+ .debug_str     0x00005438      0x578 ./emlib/em_rtcc.o
+                                0x7ef (size before relaxing)
+ .debug_str     0x000059b0      0x115 ./emlib/em_system.o
+                                0x2ed (size before relaxing)
+ .debug_str     0x00005ac5      0x90c ./emlib/em_usart.o
+                                0xdf5 (size before relaxing)
+ .debug_str     0x000063d1      0x59b ./lmic-master/src/hal/hal.o
+                               0x16bc (size before relaxing)
+ .debug_str     0x0000696c       0x7e ./lmic-master/src/lmic/aes.o
+                                0x256 (size before relaxing)
+ .debug_str     0x000069ea     0x10f0 ./lmic-master/src/lmic/lmic.o
+                               0x156e (size before relaxing)
+ .debug_str     0x00007ada       0xae ./lmic-master/src/lmic/oslmic.o
+                                0x492 (size before relaxing)
+ .debug_str     0x00007b88      0x150 ./lmic-master/src/lmic/radio.o
+                                0x817 (size before relaxing)
+ .debug_str     0x00007cd8       0xa9 ./src/adc.o
+                               0x2373 (size before relaxing)
+ .debug_str     0x00007d81       0xc3 ./src/config.o
+                               0x14d4 (size before relaxing)
+ .debug_str     0x00007e44       0x87 ./src/delay.o
+                                0x6dc (size before relaxing)
+ .debug_str     0x00007ecb      0x4e4 ./src/i2c-MMA8652.o
+                                0xa63 (size before relaxing)
+ .debug_str     0x000083af      0x329 ./src/main.o
+                               0x158f (size before relaxing)
+
+.debug_frame    0x00000000     0x4644
+ .debug_frame   0x00000000      0x164 ./CMSIS/EFM32JG1B/system_efm32jg1b.o
+ .debug_frame   0x00000164      0x270 ./emlib/em_adc.o
+ .debug_frame   0x000003d4      0x74c ./emlib/em_cmu.o
+ .debug_frame   0x00000b20       0x80 ./emlib/em_cryotimer.o
+ .debug_frame   0x00000ba0      0x638 ./emlib/em_emu.o
+ .debug_frame   0x000011d8      0x228 ./emlib/em_gpio.o
+ .debug_frame   0x00001400      0x1b0 ./emlib/em_i2c.o
+ .debug_frame   0x000015b0      0x21c ./emlib/em_leuart.o
+ .debug_frame   0x000017cc      0x110 ./emlib/em_rtcc.o
+ .debug_frame   0x000018dc       0x60 ./emlib/em_system.o
+ .debug_frame   0x0000193c      0x310 ./emlib/em_usart.o
+ .debug_frame   0x00001c4c      0x518 ./lmic-master/src/hal/hal.o
+ .debug_frame   0x00002164       0x60 ./lmic-master/src/lmic/aes.o
+ .debug_frame   0x000021c4      0xda0 ./lmic-master/src/lmic/lmic.o
+ .debug_frame   0x00002f64      0x11c ./lmic-master/src/lmic/oslmic.o
+ .debug_frame   0x00003080      0x2fc ./lmic-master/src/lmic/radio.o
+ .debug_frame   0x0000337c       0xa0 ./src/adc.o
+ .debug_frame   0x0000341c      0x24c ./src/config.o
+ .debug_frame   0x00003668       0xc0 ./src/delay.o
+ .debug_frame   0x00003728      0x228 ./src/i2c-MMA8652.o
+ .debug_frame   0x00003950      0x320 ./src/main.o
+ .debug_frame   0x00003c70       0x28 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00003c98       0x54 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(bpabi.o)
+ .debug_frame   0x00003cec       0x34 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_divdi3.o)
+ .debug_frame   0x00003d20       0x34 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a(_udivdi3.o)
+ .debug_frame   0x00003d54       0x20 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-atof.o)
+ .debug_frame   0x00003d74       0x28 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00003d9c       0x2c /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-init.o)
+ .debug_frame   0x00003dc8       0x28 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memcpy.o)
+ .debug_frame   0x00003df0       0x20 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00003e10       0x70 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sprintf.o)
+ .debug_frame   0x00003e80       0x20 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strlen.o)
+ .debug_frame   0x00003ea0       0x28 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strncpy.o)
+ .debug_frame   0x00003ec8       0xb4 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strtod.o)
+ .debug_frame   0x00003f7c       0x70 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-gdtoa-gethex.o)
+ .debug_frame   0x00003fec       0x58 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-gdtoa-hexnan.o)
+ .debug_frame   0x00004044       0x98 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-locale.o)
+ .debug_frame   0x000040dc      0x230 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-mprec.o)
+ .debug_frame   0x0000430c       0x2c /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-callocr.o)
+ .debug_frame   0x00004338       0x2c /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00004364       0x8c /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-svfprintf.o)
+ .debug_frame   0x000043f0       0x58 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x00004448       0x2c /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00004474       0x2c /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-strncmp.o)
+ .debug_frame   0x000044a0       0x30 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-malloc.o)
+ .debug_frame   0x000044d0       0x28 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memchr.o)
+ .debug_frame   0x000044f8       0x28 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-memmove.o)
+ .debug_frame   0x00004520       0x2c /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x0000454c       0x3c /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x00004588       0x5c /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x000045e4       0x20 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x00004604       0x20 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libnosys.a(sbrk.o)
+ .debug_frame   0x00004624       0x20 /home/khiemtt/Downloads/SimplicityStudio_v4/developer/toolchains/gnu_arm/4.9_2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libnosys.a(_exit.o)
